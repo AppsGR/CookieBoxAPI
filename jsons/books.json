@@ -1,353 +1,327 @@
 {
-    "metadata": {
-        "title": "title L3 - OPDS 2.0 Test Catalog"
-    },
-    "links": [
-        {
-            "rel": "self",
-            "href": "https://test.opds.io/2.0/home.json",
-            "type": "application/opds+json"
-        }
-    ],
-    "navigation": [
-        {
-            "title": "English books",
-            "href": "https://raw.githubusercontent.com/AppsGR/cookiebox/RMs/DevBranch/cb_en.json",
-            "type": "application/opds+json"
+        "metadata": {
+                "title": "Christian Books List"
         },
-        {
-            "title": "Dutch books",
-            "href": "https://raw.githubusercontent.com/AppsGR/cookiebox/RMs/DevBranch/cb_nl.json",
-            "type": "application/opds+json"
-        },
-        {
-            "title": "Persian books",
-            "href": "https://raw.githubusercontent.com/AppsGR/cookiebox/RMs/DevBranch/cb_fa.json",
-            "type": "application/opds+json"
-        },
-        {
-            "title": "Kurdish books 3",
-            "href": "https://raw.githubusercontent.com/AppsGR/cookiebox/RMs/DevBranch/books22.json",
-            "type": "application/opds+json"
-        }
-    ],
-    "groups": [
-        {
-            "metadata": {
-                "title": "title L32 - French Classics",
-                "numberOfItems": 5
-            },
-            "links": [
+        "links": [
                 {
-                    "rel": "self",
-                    "href": "https://test.opds.io/2.0/publications.json",
-                    "type": "application/opds+json"
+                        "rel": "self",
+                        "href": "https://test.opds.io/2.0/home.json",
+                        "type": "application/opds+json"
                 }
-            ],
-            "publications": [
+        ],
+        "navigation": [
                 {
-                    "metadata": {
-                        "@type": "http://schema.org/Book",
-                        "title": "title L - 46Voyage au centre de la Terre",
-                        "author": {
-                            "name": "AuthName 48 - Jules Verne",
-                            "sortAs": "Verne, Jules"
+                        "title": "English books",
+                        "href": "https://raw.githubusercontent.com/AppsGR/cookiebox/RMs/DevBranch/cb_en.json",
+                        "type": "application/opds+json"
+                },
+                {
+                        "title": "Dutch books",
+                        "href": "https://raw.githubusercontent.com/AppsGR/cookiebox/RMs/DevBranch/cb_nl.json",
+                        "type": "application/opds+json"
+                },
+                {
+                        "title": "Persian books",
+                        "href": "https://raw.githubusercontent.com/AppsGR/cookiebox/RMs/DevBranch/cb_fa.json",
+                        "type": "application/opds+json"
+                },
+                {
+                        "title": "Kurdish books 3",
+                        "href": "https://raw.githubusercontent.com/AppsGR/cookiebox/RMs/DevBranch/books22.json",
+                        "type": "application/opds+json"
+                }
+        ],
+        "groups": [
+                {
+                        "metadata": {
+                                "title": "John Piper",
+                                "numberOfItems": 20
                         },
-                        "identifier": "http://fr.feedbooks.com/book/1474/voyage-au-centre-de-la-terre",
-                        "language": "fr",
-                        "modified": "2018-04-23T22:15:00Z",
-                        "published": "1864-01-01",
-                        "publisher": "Feedbooks",
-                        "numberOfPages": 251,
-                        "subject": [
-                            {
-                                "name": "Science Fiction",
-                                "code": "FBFIC028000"
-                            },
-                            {
-                                "name": "Name 63 - Action & Aventure",
-                                "code": "FBFIC002000"
-                            }
+                        "links": [
+                                {
+                                        "rel": "self",
+                                        "href": "https://raw.githubusercontent.com/AppsGR/cookiebox/RMs/DevBranch/cb_en.json",
+                                        "type": "application/opds+json"
+                                }
                         ],
-                        "description": "Decs 67 - Le professeur Lidenbrock trouve un document dans lequel il apprend l'existence d'un volcan éteint dont la cheminée pourrait le conduire jusqu'au centre de la Terre. Accompagné de son neveu Axel et du guide Hans, il se rend au volcan Sneffels, en Islande, et s'engouffre dans les entrailles de la Terre. Ils ne tarderont pas à faire d'étonnantes découvertes..."
-                    },
-                    "links": [
-                        {
-                            "rel": "http://opds-spec.org/acquisition/open-access",
-                            "href": "https://test.opds.io/assets/centredelaterre/file.epub",
-                            "type": "application/epub+zip"
-                        }
-                    ],
-                    "images": [
-                        {
-                            "href": "https://test.opds.io/assets/centredelaterre/small.jpg",
-                            "type": "image/jpeg",
-                            "height": 110,
-                            "width": 146
+                        "publications": [
+                                {
+                                        "metadata": {
+                                                "@type": "http://schema.org/Book",
+                                                "title": "Alive to wonder",
+                                                "author": {
+                                                        "name": "John Piper",
+                                                        "sortAs": "Piper, John"
+                                                },
+                                                "identifier": "",
+                                                "language": "en",
+                                                "modified": "",
+                                                "published": "",
+                                                "publisher": "",
+                                                "numberOfPages": 111,
+                                                "subject": [
+                                                        {
+                                                                "name": "Christianity",
+                                                                "code": "FBFIC028000"
+                                                        },
+                                                        {
+                                                                "name": "Faith",
+                                                                "code": "FBFIC002000"
+                                                        }
+                                                ],
+                                                "description": "C.S. Lewis died fifty years ago this year. More than a generation after his death, Lewis’s works are now more popular and widely read than at any point during his lifetime.1 His thought is so creative and so profound and so extensive that Alister McGrath says, Half a century after his death, the process of receiving and interpreting Lewis has still only begun.\nI put Lewis in the top three writers who have influenced how I read and respond to the world. Yes, the world is a book to be read. And few people could read like Lewis. When Clyde Kilby wrote an anthology of Lewis’s writings he titled it A Mind Awake. He might have called it An Awakening Mind. This is the effect it has. His alertness to reality is contagious."
+                                        },
+                                        "links": [
+                                                {
+                                                        "rel": "http://opds-spec.org/acquisition/open-access",
+                                                        "href": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20Epub/John%20Piper%20-%20an-all-consuming-passion-for-jesus-en.epub",
+                                                        "type": "application/epub+zip"
+                                                }
+                                        ],
+                                        "images": [
+                                                {
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/johnpiper/covers/John%20Piper_An%20all%20consuming%20passion%20for%20Jesus_EN.png",
+                                                        "type": "image/png",
+                                                        "height": 110,
+                                                        "width": 146
+                                                },
+                                                {
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/johnpiper/covers/John%20Piper_An%20all%20consuming%20passion%20for%20Jesus_EN.png",
+                                                        "type": "image/png",
+                                                        "height": 346,
+                                                        "width": 260
+                                                }
+                                        ]
+                                },
+                                {
+                                        "metadata": {
+                                                "@type": "http://schema.org/Book",
+                                                "title": "An all-Consuming Passion for Jesus",
+                                                "author": {
+                                                        "name": "John Piper",
+                                                        "sortAs": "Piper, John"
+                                                },
+                                                "identifier": "",
+                                                "language": "en",
+                                                "modified": "",
+                                                "published": "",
+                                                "publisher": "",
+                                                "belongsTo": {
+                                                        "series": {
+                                                                "name": "",
+                                                                "position": 1
+                                                        }
+                                                },
+                                                "description": "Friday morning, January 11, 2013 dawned frigid and dark in Minneapolis. John Piper finished his devotions, slid on his boots, bundled in his coat, and stepped outside to the remnants of an overnight ice storm to walk 600 slippery steps from his Minneapolis home to the door of Bethlehem Baptist Church for the weekly prayer gathering. The gatherings were typically small, sometimes only three or four attended, but two or three is enough of an audience to pray for the congregation’s needs and the gospel’s advance."
+                                        },
+                                        "links": [
+                                                {
+                                                        "rel": "http://opds-spec.org/acquisition/open-access",
+                                                        "href": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20Epub/John%20Piper%20-%20an-all-consuming-passion-for-jesus-en.epub",
+                                                        "type": "application/epub+zip"
+                                                }
+                                        ],
+                                        "images": [
+                                                {
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/johnpiper/covers/John%20Piper_An%20all%20consuming%20passion%20for%20Jesus_EN.png",
+                                                        "type": "image/jpeg",
+                                                        "height": 169,
+                                                        "width": 110
+                                                },
+                                                {
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/johnpiper/covers/John%20Piper_An%20all%20consuming%20passion%20for%20Jesus_EN.png",
+                                                        "type": "image/jpeg",
+                                                        "height": 400,
+                                                        "width": 260
+                                                }
+                                        ]
+                                }
+                        ]
+                },
+
+
+
+
+
+
+
+
+
+
+                {
+                        "metadata": {
+                                "title": "Paul Washer",
+                                "numberOfItems": 20
                         },
-                        {
-                            "href": "https://test.opds.io/assets/centredelaterre/normal.jpg",
-                            "type": "image/jpeg",
-                            "height": 346,
-                            "width": 260
-                        }
-                    ]
-                },
+                        "publications": [
+                                {
+                                        "metadata": {
+                                                "@type": "http://schema.org/Book",
+                                                "title": "title 162-2-modified - Moby-bad",
+                                                "author": {
+                                                        "name": "title 164 - Herman Melville",
+                                                        "sortAs": "Melville, Herman"
+                                                },
+                                                "identifier": "http://www.feedbooks.com/book/54/moby-dick",
+                                                "language": "en",
+                                                "modified": "2018-04-23T23:18:00Z",
+                                                "published": "1851-01-01",
+                                                "publisher": "Feedbooks",
+                                                "description": "title 172 - Moby-Dick is an 1851 novel by Herman Melville. The story tells the adventures of the wandering sailor Ishmael and his voyage on the whaling ship Pequod, commanded by Captain Ahab. Ishmael soon learns that Ahab seeks one specific whale, Moby-Dick, a white whale of tremendous size and ferocity. Comparatively few whaling ships know of Moby-Dick, and fewer yet have encountered him. In a previous encounter, the whale destroyed Ahab's boat and bit off his leg. Ahab intends to exact revenge."
+                                        },
+                                        "links": [
+                                                {
+                                                        "rel": "http://opds-spec.org/acquisition/open-access",
+                                                        "href": "https://test.opds.io/assets/moby/file.epub",
+                                                        "type": "application/epub+zip"
+                                                }
+                                        ],
+                                        "images": [
+                                                {
+                                                        "href": "https://test.opds.io/assets/moby/small.jpg",
+                                                        "type": "image/jpeg",
+                                                        "height": 169,
+                                                        "width": 110
+                                                },
+                                                {
+                                                        "href": "https://test.opds.io/assets/moby/normal.jpg",
+                                                        "type": "image/jpeg",
+                                                        "height": 400,
+                                                        "width": 260
+                                                }
+                                        ]
+                                }
+                        ]
+                }
+        ],
+        "publications": [
                 {
-                    "metadata": {
-                        "@type": "http://schema.org/Book",
-                        "title": "Title 94 - Du côté de chez Swann",
-                        "author": {
-                            "name": "Name 96 - Marcel Proust",
-                            "sortAs": "Proust, Marcel"
+                        "metadata": {
+                                "@type": "http://schema.org/Book",
+                                "title": "title 203-3 - Moby-bad 2",
+                                "author": {
+                                        "name": "Name 205 - Herman Melville",
+                                        "sortAs": "Melville, Herman"
+                                },
+                                "identifier": "http://www.feedbooks.com/book/54/moby-dick",
+                                "language": "en",
+                                "modified": "2018-04-23T23:18:00Z",
+                                "published": "1851-01-01",
+                                "publisher": "Feedbooks",
+                                "description": "Desc 213 - Moby-Dick is an 1851 novel by Herman Melville. The story tells the adventures of the wandering sailor Ishmael and his voyage on the whaling ship Pequod, commanded by Captain Ahab. Ishmael soon learns that Ahab seeks one specific whale, Moby-Dick, a white whale of tremendous size and ferocity. Comparatively few whaling ships know of Moby-Dick, and fewer yet have encountered him. In a previous encounter, the whale destroyed Ahab's boat and bit off his leg. Ahab intends to exact revenge."
                         },
-                        "identifier": "http://fr.feedbooks.com/book/4/du-c%C3%B4t%C3%A9-de-chez-swann",
-                        "language": "fr",
-                        "modified": "2018-04-23T22:56:00Z",
-                        "published": "1913-01-01",
-                        "publisher": "Feedbooks",
-                        "belongsTo": {
-                            "series": {
-                                "name": "Name 106 - À la recherche du temps perdu",
-                                "position": 1
-                            }
+                        "links": [
+                                {
+                                        "rel": "http://opds-spec.org/acquisition/open-access",
+                                        "href": "https://test.opds.io/assets/moby/file.epub",
+                                        "type": "application/epub+zip"
+                                }
+                        ],
+                        "images": [
+                                {
+                                        "href": "https://test.opds.io/assets/moby/small.jpg",
+                                        "type": "image/jpeg",
+                                        "height": 169,
+                                        "width": 110
+                                },
+                                {
+                                        "href": "https://test.opds.io/assets/moby/normal.jpg",
+                                        "type": "image/jpeg",
+                                        "height": 400,
+                                        "width": 260
+                                }
+                        ]
+                },
+                {
+                        "metadata": {
+                                "@type": "http://schema.org/Book",
+                                "title": "title L - 46Voyage au centre de la Terre",
+                                "author": {
+                                        "name": "AuthName 48 - Jules Verne",
+                                        "sortAs": "Verne, Jules"
+                                },
+                                "identifier": "http://fr.feedbooks.com/book/1474/voyage-au-centre-de-la-terre",
+                                "language": "fr",
+                                "modified": "2018-04-23T22:15:00Z",
+                                "published": "1864-01-01",
+                                "publisher": "Feedbooks",
+                                "numberOfPages": 251,
+                                "subject": [
+                                        {
+                                                "name": "Science Fiction",
+                                                "code": "FBFIC028000"
+                                        },
+                                        {
+                                                "name": "Name 63 - Action & Aventure",
+                                                "code": "FBFIC002000"
+                                        }
+                                ],
+                                "description": "Decs 67 - Le professeur Lidenbrock trouve un document dans lequel il apprend l'existence d'un volcan éteint dont la cheminée pourrait le conduire jusqu'au centre de la Terre. Accompagné de son neveu Axel et du guide Hans, il se rend au volcan Sneffels, en Islande, et s'engouffre dans les entrailles de la Terre. Ils ne tarderont pas à faire d'étonnantes découvertes..."
                         },
-                        "description": "Desc 110 - Du côté de chez Swann est un roman de Marcel Proust, c'est le premier volume de À la recherche du temps perdu. Il est composé de trois parties, dont les titres sont : Combray, Un amour de Swann et Nom de pays : le nom."
-                    },
-                    "links": [
-                        {
-                            "rel": "http://opds-spec.org/acquisition/open-access",
-                            "href": "https://test.opds.io/assets/swann/file.epub",
-                            "type": "application/epub+zip"
-                        }
-                    ],
-                    "images": [
-                        {
-                            "href": "https://test.opds.io/assets/swann/small.jpg",
-                            "type": "image/jpeg",
-                            "height": 169,
-                            "width": 110
+                        "links": [
+                                {
+                                        "rel": "http://opds-spec.org/acquisition/open-access",
+                                        "href": "https://test.opds.io/assets/centredelaterre/file.epub",
+                                        "type": "application/epub+zip"
+                                }
+                        ],
+                        "images": [
+                                {
+                                        "href": "https://test.opds.io/assets/centredelaterre/small.jpg",
+                                        "type": "image/jpeg",
+                                        "height": 110,
+                                        "width": 146
+                                },
+                                {
+                                        "href": "https://test.opds.io/assets/centredelaterre/normal.jpg",
+                                        "type": "image/jpeg",
+                                        "height": 346,
+                                        "width": 260
+                                }
+                        ]
+                },
+                {
+                        "metadata": {
+                                "@type": "http://schema.org/Book",
+                                "title": "Title 94 - Du côté de chez Swann",
+                                "author": {
+                                        "name": "Name 96 - Marcel Proust",
+                                        "sortAs": "Proust, Marcel"
+                                },
+                                "identifier": "http://fr.feedbooks.com/book/4/du-c%C3%B4t%C3%A9-de-chez-swann",
+                                "language": "fr",
+                                "modified": "2018-04-23T22:56:00Z",
+                                "published": "1913-01-01",
+                                "publisher": "Feedbooks",
+                                "belongsTo": {
+                                        "series": {
+                                                "name": "Name 106 - À la recherche du temps perdu",
+                                                "position": 1
+                                        }
+                                },
+                                "description": "Desc 110 - Du côté de chez Swann est un roman de Marcel Proust, c'est le premier volume de À la recherche du temps perdu. Il est composé de trois parties, dont les titres sont : Combray, Un amour de Swann et Nom de pays : le nom."
                         },
-                        {
-                            "href": "https://test.opds.io/assets/swann/normal.jpg",
-                            "type": "image/jpeg",
-                            "height": 400,
-                            "width": 260
-                        }
-                    ]
+                        "links": [
+                                {
+                                        "rel": "http://opds-spec.org/acquisition/open-access",
+                                        "href": "https://test.opds.io/assets/swann/file.epub",
+                                        "type": "application/epub+zip"
+                                }
+                        ],
+                        "images": [
+                                {
+                                        "href": "https://test.opds.io/assets/swann/small.jpg",
+                                        "type": "image/jpeg",
+                                        "height": 169,
+                                        "width": 110
+                                },
+                                {
+                                        "href": "https://test.opds.io/assets/swann/normal.jpg",
+                                        "type": "image/jpeg",
+                                        "height": 400,
+                                        "width": 260
+                                }
+                        ]
                 }
-            ]
-        },
-        {
-            "metadata": {
-                "title": "Title 138 - More Navigation"
-            },
-            "navigation": [
-                {
-                    "href": "https://test.opds.io/2.0/home.json",
-                    "title": "title 143 - French Books",
-                    "type": "application/opds+json"
-                },
-                {
-                    "href": "https://test.opds.io/2.0/home.json",
-                    "title": "title 148 - English Books",
-                    "type": "application/opds+json"
-                }
-            ]
-        },
-        {
-            "metadata": {
-                "title": "title 155 - English Classics",
-                "numberOfItems": 3
-            },
-            "publications": [
-                {
-                    "metadata": {
-                        "@type": "http://schema.org/Book",
-                        "title": "title 162-2-modified - Moby-bad",
-                        "author": {
-                            "name": "title 164 - Herman Melville",
-                            "sortAs": "Melville, Herman"
-                        },
-                        "identifier": "http://www.feedbooks.com/book/54/moby-dick",
-                        "language": "en",
-                        "modified": "2018-04-23T23:18:00Z",
-                        "published": "1851-01-01",
-                        "publisher": "Feedbooks",
-                        "description": "title 172 - Moby-Dick is an 1851 novel by Herman Melville. The story tells the adventures of the wandering sailor Ishmael and his voyage on the whaling ship Pequod, commanded by Captain Ahab. Ishmael soon learns that Ahab seeks one specific whale, Moby-Dick, a white whale of tremendous size and ferocity. Comparatively few whaling ships know of Moby-Dick, and fewer yet have encountered him. In a previous encounter, the whale destroyed Ahab's boat and bit off his leg. Ahab intends to exact revenge."
-                    },
-                    "links": [
-                        {
-                            "rel": "http://opds-spec.org/acquisition/open-access",
-                            "href": "https://test.opds.io/assets/moby/file.epub",
-                            "type": "application/epub+zip"
-                        }
-                    ],
-                    "images": [
-                        {
-                            "href": "https://test.opds.io/assets/moby/small.jpg",
-                            "type": "image/jpeg",
-                            "height": 169,
-                            "width": 110
-                        },
-                        {
-                            "href": "https://test.opds.io/assets/moby/normal.jpg",
-                            "type": "image/jpeg",
-                            "height": 400,
-                            "width": 260
-                        }
-                    ]
-                }
-            ]
-        }
-    ],
-    "publications": [
-        {
-            "metadata": {
-                "@type": "http://schema.org/Book",
-                "title": "title 203-3 - Moby-bad 2",
-                "author": {
-                    "name": "Name 205 - Herman Melville",
-                    "sortAs": "Melville, Herman"
-                },
-                "identifier": "http://www.feedbooks.com/book/54/moby-dick",
-                "language": "en",
-                "modified": "2018-04-23T23:18:00Z",
-                "published": "1851-01-01",
-                "publisher": "Feedbooks",
-                "description": "Desc 213 - Moby-Dick is an 1851 novel by Herman Melville. The story tells the adventures of the wandering sailor Ishmael and his voyage on the whaling ship Pequod, commanded by Captain Ahab. Ishmael soon learns that Ahab seeks one specific whale, Moby-Dick, a white whale of tremendous size and ferocity. Comparatively few whaling ships know of Moby-Dick, and fewer yet have encountered him. In a previous encounter, the whale destroyed Ahab's boat and bit off his leg. Ahab intends to exact revenge."
-            },
-            "links": [
-                {
-                    "rel": "http://opds-spec.org/acquisition/open-access",
-                    "href": "https://test.opds.io/assets/moby/file.epub",
-                    "type": "application/epub+zip"
-                }
-            ],
-            "images": [
-                {
-                    "href": "https://test.opds.io/assets/moby/small.jpg",
-                    "type": "image/jpeg",
-                    "height": 169,
-                    "width": 110
-                },
-                {
-                    "href": "https://test.opds.io/assets/moby/normal.jpg",
-                    "type": "image/jpeg",
-                    "height": 400,
-                    "width": 260
-                }
-            ]
-        },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        {
-            "metadata": {
-                "@type": "http://schema.org/Book",
-                "title": "title L - 46Voyage au centre de la Terre",
-                "author": {
-                    "name": "AuthName 48 - Jules Verne",
-                    "sortAs": "Verne, Jules"
-                },
-                "identifier": "http://fr.feedbooks.com/book/1474/voyage-au-centre-de-la-terre",
-                "language": "fr",
-                "modified": "2018-04-23T22:15:00Z",
-                "published": "1864-01-01",
-                "publisher": "Feedbooks",
-                "numberOfPages": 251,
-                "subject": [
-                    {
-                        "name": "Science Fiction",
-                        "code": "FBFIC028000"
-                    },
-                    {
-                        "name": "Name 63 - Action & Aventure",
-                        "code": "FBFIC002000"
-                    }
-                ],
-                "description": "Decs 67 - Le professeur Lidenbrock trouve un document dans lequel il apprend l'existence d'un volcan éteint dont la cheminée pourrait le conduire jusqu'au centre de la Terre. Accompagné de son neveu Axel et du guide Hans, il se rend au volcan Sneffels, en Islande, et s'engouffre dans les entrailles de la Terre. Ils ne tarderont pas à faire d'étonnantes découvertes..."
-            },
-            "links": [
-                {
-                    "rel": "http://opds-spec.org/acquisition/open-access",
-                    "href": "https://test.opds.io/assets/centredelaterre/file.epub",
-                    "type": "application/epub+zip"
-                }
-            ],
-            "images": [
-                {
-                    "href": "https://test.opds.io/assets/centredelaterre/small.jpg",
-                    "type": "image/jpeg",
-                    "height": 110,
-                    "width": 146
-                },
-                {
-                    "href": "https://test.opds.io/assets/centredelaterre/normal.jpg",
-                    "type": "image/jpeg",
-                    "height": 346,
-                    "width": 260
-                }
-            ]
-        },
-        {
-            "metadata": {
-                "@type": "http://schema.org/Book",
-                "title": "Title 94 - Du côté de chez Swann",
-                "author": {
-                    "name": "Name 96 - Marcel Proust",
-                    "sortAs": "Proust, Marcel"
-                },
-                "identifier": "http://fr.feedbooks.com/book/4/du-c%C3%B4t%C3%A9-de-chez-swann",
-                "language": "fr",
-                "modified": "2018-04-23T22:56:00Z",
-                "published": "1913-01-01",
-                "publisher": "Feedbooks",
-                "belongsTo": {
-                    "series": {
-                        "name": "Name 106 - À la recherche du temps perdu",
-                        "position": 1
-                    }
-                },
-                "description": "Desc 110 - Du côté de chez Swann est un roman de Marcel Proust, c'est le premier volume de À la recherche du temps perdu. Il est composé de trois parties, dont les titres sont : Combray, Un amour de Swann et Nom de pays : le nom."
-            },
-            "links": [
-                {
-                    "rel": "http://opds-spec.org/acquisition/open-access",
-                    "href": "https://test.opds.io/assets/swann/file.epub",
-                    "type": "application/epub+zip"
-                }
-            ],
-            "images": [
-                {
-                    "href": "https://test.opds.io/assets/swann/small.jpg",
-                    "type": "image/jpeg",
-                    "height": 169,
-                    "width": 110
-                },
-                {
-                    "href": "https://test.opds.io/assets/swann/normal.jpg",
-                    "type": "image/jpeg",
-                    "height": 400,
-                    "width": 260
-                }
-            ]
-        }
-    ]
+        ]
 }
