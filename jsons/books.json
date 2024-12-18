@@ -1075,49 +1075,6 @@
                 {
                         "metadata": {
                                 "@type": "http://schema.org/Book",
-                                "title": "Take Care How You Listen",
-                                "author": {
-                                        "name": "John Piper",
-                                        "sortAs": "Piper, John"
-                                },
-                                "identifier": "",
-                                "language": "en",
-                                "modified": "",
-                                "published": "",
-                                "publisher": "",
-                                "belongsTo": {
-                                        "series": {
-                                                "name": "",
-                                                "position": 1
-                                        }
-                                },
-                                "description": "Scripture calls us to consider carefully what sermons we listen to, and but it also calls us to consider how we listen to those sermons. Skillful listening is a non-negotiable skill for everyone who enters a church building on Sunday or plays a sermon through headphones during the week. \n\nThe life and health and growth of our souls are tied to how well we listen. We are wise to periodically evaluate our own hearing of God’s word. If we listen with carelessness, we can drift away from God. On the other hand, if we listen with vigilance we “swim against the stream of sin and indifference.” \n\n\n“Don’t be cavalier in the hearing of God’s Word week after week,” John Piper cautions us. “If it is not softening and saving and healing and bearing fruit, it is probably hardening and blinding and dulling.” It is too easy to slip into what Scripture calls “dullness of hearing,” to hear the weekly sermons without faith, and to see little or no moral fruit in our lives as a result. As Jesus makes clear, ultimately it is how we hear that reveals who we are (John 8:43, 47, 10:4, 27). \n\n\nThose are a few of the points made in this e-book, which is comprised of five unedited sermon manuscripts from the preaching ministry of Pastor John Piper at Bethlehem Baptist Church in Minneapolis, Minnesota. This selection covers a span of fourteen years (the earliest sermon was taken from 1984, the latest from 1998). The five selected manuscripts are published here as they existed when the sermons were preached. There is little doubt that Pastor John would prefer to rework these manuscripts stylistically and even structurally in a number of ways to make them more suitable for reading. Yet we believe these sermon manuscripts in their present state of development are sufficiently clear to benefit our readership now. Where explanation is necessary, footnotes have been added. We pray this resource will serve your personal reflection as you heed Jesus’ command to “take care how you listen.”"
-                        },
-                        "links": [
-                                {
-                                        "rel": "http://opds-spec.org/acquisition/open-access",
-                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnPiper/JohnPiper_TakeCareHowYouListen_EN.epub",
-                                        "type": "application/epub+zip"
-                                }
-                        ],
-                        "images": [
-                                {
-                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnPiper/JohnPiper_TakeCareHowYouListen_EN.png",
-                                        "type": "image/jpeg",
-                                        "height": 222,
-                                        "width": 110
-                                },
-                                {
-                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnPiper/JohnPiper_TakeCareHowYouListen_EN.png",
-                                        "type": "image/jpeg",
-                                        "height": 400,
-                                        "width": 260
-                                }
-                        ]
-                },
-                {
-                        "metadata": {
-                                "@type": "http://schema.org/Book",
                                 "title": "Life in the Spirit",
                                 "author": {
                                         "name": "E. G., Gibson",
@@ -1152,6 +1109,49 @@
                                 },
                                 {
                                         "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/EGGibson/EGGibson_LifeInTheSpirit_EN.png",
+                                        "type": "image/jpeg",
+                                        "height": 400,
+                                        "width": 260
+                                }
+                        ]
+                },
+                {
+                        "metadata": {
+                                "@type": "http://schema.org/Book",
+                                "title": "Take Care How You Listen",
+                                "author": {
+                                        "name": "John Piper",
+                                        "sortAs": "Piper, John"
+                                },
+                                "identifier": "",
+                                "language": "en",
+                                "modified": "",
+                                "published": "",
+                                "publisher": "",
+                                "belongsTo": {
+                                        "series": {
+                                                "name": "",
+                                                "position": 1
+                                        }
+                                },
+                                "description": "Scripture calls us to consider carefully what sermons we listen to, and but it also calls us to consider how we listen to those sermons. Skillful listening is a non-negotiable skill for everyone who enters a church building on Sunday or plays a sermon through headphones during the week. \n\nThe life and health and growth of our souls are tied to how well we listen. We are wise to periodically evaluate our own hearing of God’s word. If we listen with carelessness, we can drift away from God. On the other hand, if we listen with vigilance we “swim against the stream of sin and indifference.” \n\n\n“Don’t be cavalier in the hearing of God’s Word week after week,” John Piper cautions us. “If it is not softening and saving and healing and bearing fruit, it is probably hardening and blinding and dulling.” It is too easy to slip into what Scripture calls “dullness of hearing,” to hear the weekly sermons without faith, and to see little or no moral fruit in our lives as a result. As Jesus makes clear, ultimately it is how we hear that reveals who we are (John 8:43, 47, 10:4, 27). \n\n\nThose are a few of the points made in this e-book, which is comprised of five unedited sermon manuscripts from the preaching ministry of Pastor John Piper at Bethlehem Baptist Church in Minneapolis, Minnesota. This selection covers a span of fourteen years (the earliest sermon was taken from 1984, the latest from 1998). The five selected manuscripts are published here as they existed when the sermons were preached. There is little doubt that Pastor John would prefer to rework these manuscripts stylistically and even structurally in a number of ways to make them more suitable for reading. Yet we believe these sermon manuscripts in their present state of development are sufficiently clear to benefit our readership now. Where explanation is necessary, footnotes have been added. We pray this resource will serve your personal reflection as you heed Jesus’ command to “take care how you listen.”"
+                        },
+                        "links": [
+                                {
+                                        "rel": "http://opds-spec.org/acquisition/open-access",
+                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnPiper/JohnPiper_TakeCareHowYouListen_EN.epub",
+                                        "type": "application/epub+zip"
+                                }
+                        ],
+                        "images": [
+                                {
+                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnPiper/JohnPiper_TakeCareHowYouListen_EN.png",
+                                        "type": "image/jpeg",
+                                        "height": 222,
+                                        "width": 110
+                                },
+                                {
+                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnPiper/JohnPiper_TakeCareHowYouListen_EN.png",
                                         "type": "image/jpeg",
                                         "height": 400,
                                         "width": 260
