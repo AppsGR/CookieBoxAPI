@@ -884,6 +884,57 @@
                                         ]
                                 }
                         ]
+                },
+                {
+                        "metadata": {
+                                "title": "Greg Lovell",
+                                "numberOfItems": 20
+                        },
+                        "publications": [
+                                {
+                                        "metadata": {
+                                                "@type": "http://schema.org/Book",
+                                                "title": "A Devotional Book",
+                                                "author": {
+                                                        "name": "Greg Lovell",
+                                                        "sortAs": "Lovell, Greg"
+                                                },
+                                                "identifier": "",
+                                                "language": "en",
+                                                "modified": "",
+                                                "published": "",
+                                                "publisher": "",
+                                                "belongsTo": {
+                                                        "series": {
+                                                                "name": "",
+                                                                "position": 1
+                                                        }
+                                                },
+                                                "description": "Rev. Greg was born again on May 31, 1973, I went Trinity Church in Bridgewater MA. For 20 years. He has been a born again Spirit filled Christian now for over thirty years. He graduated from Hamburg High in Hamburg, N. Y. in 1972. He went to a theology school for three years He graduated in 1979. He went to Rhema Bible Training from 1982-1984 and, graduated. He got married in 1994I started going to Living Word in 1995I have been in various ministries in the church over the years. He an ordained minister under The International Fellowship of Ministries, John G. Lake Founder He is in charge of a nursing Home ministry Called. His Love Never Fails Nursing Home Ministry."
+                                        },
+                                        "links": [
+                                                {
+                                                        "rel": "http://opds-spec.org/acquisition/open-access",
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/EGGibson/GregLovell_ADevotionalBook_EN.epub",
+                                                        "type": "application/epub+zip"
+                                                }
+                                        ],
+                                        "images": [
+                                                {
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/EGGibson/GregLovell_ADevotionalBook_EN.png",
+                                                        "type": "image/jpeg",
+                                                        "height": 222,
+                                                        "width": 110
+                                                },
+                                                {
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/EGGibson/GregLovell_ADevotionalBook_EN.png",
+                                                        "type": "image/jpeg",
+                                                        "height": 400,
+                                                        "width": 260
+                                                }
+                                        ]
+                                }
+                        ]
                 }
         ],
         "publications": [
