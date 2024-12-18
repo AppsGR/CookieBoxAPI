@@ -864,19 +864,19 @@
                                         "links": [
                                                 {
                                                         "rel": "http://opds-spec.org/acquisition/open-access",
-                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/EGGibson/MartinLuther_ConcerningChristian_EN.epub",
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/MartinLuther/MartinLuther_ConcerningChristian_EN.epub",
                                                         "type": "application/epub+zip"
                                                 }
                                         ],
                                         "images": [
                                                 {
-                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/EGGibson/MartinLuther_ConcerningChristian_EN.png",
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/MartinLuther/MartinLuther_ConcerningChristian_EN.png",
                                                         "type": "image/jpeg",
                                                         "height": 222,
                                                         "width": 110
                                                 },
                                                 {
-                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/EGGibson/MartinLuther_ConcerningChristian_EN.png",
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/MartinLuther/MartinLuther_ConcerningChristian_EN.png",
                                                         "type": "image/jpeg",
                                                         "height": 400,
                                                         "width": 260
@@ -915,19 +915,19 @@
                                         "links": [
                                                 {
                                                         "rel": "http://opds-spec.org/acquisition/open-access",
-                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/EGGibson/GregLovell_ADevotionalBook_EN.epub",
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/GregLovell/GregLovell_ADevotionalBook_EN.epub",
                                                         "type": "application/epub+zip"
                                                 }
                                         ],
                                         "images": [
                                                 {
-                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/EGGibson/GregLovell_ADevotionalBook_EN.png",
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/GregLovell/GregLovell_ADevotionalBook_EN.png",
                                                         "type": "image/jpeg",
                                                         "height": 222,
                                                         "width": 110
                                                 },
                                                 {
-                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/EGGibson/GregLovell_ADevotionalBook_EN.png",
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/GregLovell/GregLovell_ADevotionalBook_EN.png",
                                                         "type": "image/jpeg",
                                                         "height": 400,
                                                         "width": 260
