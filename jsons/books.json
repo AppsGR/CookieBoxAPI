@@ -12,22 +12,7 @@
         "navigation": [
                 {
                         "title": "English books",
-                        "href": "https://raw.githubusercontent.com/AppsGR/cookiebox/RMs/DevBranch/cb_en.json",
-                        "type": "application/opds+json"
-                },
-                {
-                        "title": "Dutch books",
-                        "href": "https://raw.githubusercontent.com/AppsGR/cookiebox/RMs/DevBranch/cb_nl.json",
-                        "type": "application/opds+json"
-                },
-                {
-                        "title": "Persian books",
-                        "href": "https://raw.githubusercontent.com/AppsGR/cookiebox/RMs/DevBranch/cb_fa.json",
-                        "type": "application/opds+json"
-                },
-                {
-                        "title": "Kurdish books 3",
-                        "href": "https://raw.githubusercontent.com/AppsGR/cookiebox/RMs/DevBranch/books22.json",
+                        "href": "https://raw.githubusercontent.com/AppsGR/CookieBoxAPI/refs/heads/main/jsons/books.json",
                         "type": "application/opds+json"
                 }
         ],
