@@ -792,49 +792,6 @@
                                 {
                                         "metadata": {
                                                 "@type": "http://schema.org/Book",
-                                                "title": "Life in the Spirit",
-                                                "author": {
-                                                        "name": "E. G., Gibson",
-                                                        "sortAs": "Gibson, E. G."
-                                                },
-                                                "identifier": "",
-                                                "language": "en",
-                                                "modified": "",
-                                                "published": "",
-                                                "publisher": "",
-                                                "belongsTo": {
-                                                        "series": {
-                                                                "name": "",
-                                                                "position": 1
-                                                        }
-                                                },
-                                                "description": "For those who knew Ted Gibson and sat under his ministry, the following Bible studies, first published in The Australian Baptist in 1984, will be redolent of his character and style as a preacher and teacher. \n\n\n\n\n\nHe himself would be the first to acknowledge the influence of his Principal, the Rev George Morling, who lived and taught the meaning of “life in the Spirit”. From his earliest days as a young theological graduate of the Baptist Theological College of NSW (now Morling College), Ted Gibson felt the call to preach. Although he had degrees in Anthropology and Science as well as Theology, his great love was focused in the Scriptures. In the following brief popular studies, he quotes or refers to at least 30 of the 66 books of the Bible, including nine from the Old Testament. \n\n\n\n\n\nThe topic of the series is explicit in the title: Life in the Spirit,  but in every study the focus is upon Jesus Christ. This is entirely appropriate since Christ Himself said in John 16:13ff: “When he, the Spirit of truth comes, he will guide you into all truth. . . . He will glorify me.” These studies illustrate the truth that a rich full-orbed doctrine of the Holy Spirit will inevitably glorify Christ. \n\n\nRev Dr G. Noel Vose AM"
-                                        },
-                                        "links": [
-                                                {
-                                                        "rel": "http://opds-spec.org/acquisition/open-access",
-                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/EGGibson/EGGibson_LifeInTheSpirit_EN.epub",
-                                                        "type": "application/epub+zip"
-                                                }
-                                        ],
-                                        "images": [
-                                                {
-                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/EGGibson/EGGibson_LifeInTheSpirit_EN.png",
-                                                        "type": "image/jpeg",
-                                                        "height": 222,
-                                                        "width": 110
-                                                },
-                                                {
-                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/EGGibson/EGGibson_LifeInTheSpirit_EN.png",
-                                                        "type": "image/jpeg",
-                                                        "height": 400,
-                                                        "width": 260
-                                                }
-                                        ]
-                                },
-                                {
-                                        "metadata": {
-                                                "@type": "http://schema.org/Book",
                                                 "title": "Prayer",
                                                 "author": {
                                                         "name": "E. G., Gibson",
@@ -1075,49 +1032,6 @@
                 {
                         "metadata": {
                                 "@type": "http://schema.org/Book",
-                                "title": "Life in the Spirit",
-                                "author": {
-                                        "name": "E. G., Gibson",
-                                        "sortAs": "Gibson, E. G."
-                                },
-                                "identifier": "",
-                                "language": "en",
-                                "modified": "",
-                                "published": "",
-                                "publisher": "",
-                                "belongsTo": {
-                                        "series": {
-                                                "name": "",
-                                                "position": 1
-                                        }
-                                },
-                                "description": "For those who knew Ted Gibson and sat under his ministry, the following Bible studies, first published in The Australian Baptist in 1984, will be redolent of his character and style as a preacher and teacher. \n\n\n\n\n\nHe himself would be the first to acknowledge the influence of his Principal, the Rev George Morling, who lived and taught the meaning of “life in the Spirit”. From his earliest days as a young theological graduate of the Baptist Theological College of NSW (now Morling College), Ted Gibson felt the call to preach. Although he had degrees in Anthropology and Science as well as Theology, his great love was focused in the Scriptures. In the following brief popular studies, he quotes or refers to at least 30 of the 66 books of the Bible, including nine from the Old Testament. \n\n\n\n\n\nThe topic of the series is explicit in the title: Life in the Spirit,  but in every study the focus is upon Jesus Christ. This is entirely appropriate since Christ Himself said in John 16:13ff: “When he, the Spirit of truth comes, he will guide you into all truth. . . . He will glorify me.” These studies illustrate the truth that a rich full-orbed doctrine of the Holy Spirit will inevitably glorify Christ. \n\n\nRev Dr G. Noel Vose AM"
-                        },
-                        "links": [
-                                {
-                                        "rel": "http://opds-spec.org/acquisition/open-access",
-                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/EGGibson/EGGibson_LifeInTheSpirit_EN.epub",
-                                        "type": "application/epub+zip"
-                                }
-                        ],
-                        "images": [
-                                {
-                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/EGGibson/EGGibson_LifeInTheSpirit_EN.png",
-                                        "type": "image/jpeg",
-                                        "height": 222,
-                                        "width": 110
-                                },
-                                {
-                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/EGGibson/EGGibson_LifeInTheSpirit_EN.png",
-                                        "type": "image/jpeg",
-                                        "height": 400,
-                                        "width": 260
-                                }
-                        ]
-                },
-                {
-                        "metadata": {
-                                "@type": "http://schema.org/Book",
                                 "title": "Take Care How You Listen",
                                 "author": {
                                         "name": "John Piper",
@@ -1238,6 +1152,49 @@
                                 },
                                 {
                                         "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnPiper/JohnPiper_SanctificationInTheEveryday_EN.png",
+                                        "type": "image/jpeg",
+                                        "height": 400,
+                                        "width": 260
+                                }
+                        ]
+                },
+                {
+                        "metadata": {
+                                "@type": "http://schema.org/Book",
+                                "title": "Fear of God",
+                                "author": {
+                                        "name": "E. G., Gibson",
+                                        "sortAs": "Gibson, E. G."
+                                },
+                                "identifier": "",
+                                "language": "en",
+                                "modified": "",
+                                "published": "",
+                                "publisher": "",
+                                "belongsTo": {
+                                        "series": {
+                                                "name": "",
+                                                "position": 1
+                                        }
+                                },
+                                "description": "The fear of the Lord as it related to the promised Messiah was predicted by Isaiah 800 yrs before his birth. In Isaiah’s Servant Songs we read that “his delight is in the fear of the Lord” Isa 11:6\n  \n“Isa 11:1-5 “ The Spirit will give penetrating diagnosis in “David’s” ministry – wisdom and discernment; the Spirit will enable him to give correct advice and the know-how or ability to carry it out; the Spirit will above all produce in “David” the knowledge of the fear of Yahweh. It will be his supreme delight to fear Yahweh – that is, to enter into that relation of absolute dependence on Yahweh which receives reciprocally a fellowship with Yahweh, sharing together in love and united purposes”. Dr E G Gibson (The Spirit and the Eschaton in O.T.)"
+                        },
+                        "links": [
+                                {
+                                        "rel": "http://opds-spec.org/acquisition/open-access",
+                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/EGGibson/EGGibson_FearOfGod_EN.epub",
+                                        "type": "application/epub+zip"
+                                }
+                        ],
+                        "images": [
+                                {
+                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/EGGibson/EGGibson_FearOfGod_EN.png",
+                                        "type": "image/jpeg",
+                                        "height": 222,
+                                        "width": 110
+                                },
+                                {
+                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/EGGibson/EGGibson_FearOfGod_EN.png",
                                         "type": "image/jpeg",
                                         "height": 400,
                                         "width": 260
