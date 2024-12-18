@@ -699,41 +699,133 @@
                 },
                 {
                         "metadata": {
-                                "title": "Paul Washer",
+                                "title": "John Edmiston",
                                 "numberOfItems": 20
                         },
                         "publications": [
                                 {
                                         "metadata": {
                                                 "@type": "http://schema.org/Book",
-                                                "title": "title 162-2-modified - Moby-bad",
+                                                "title": "Fear of God",
                                                 "author": {
-                                                        "name": "title 164 - Herman Melville",
-                                                        "sortAs": "Melville, Herman"
+                                                        "name": "E. G. Gibson",
+                                                        "sortAs": "Gibson, E. G."
                                                 },
-                                                "identifier": "http://www.feedbooks.com/book/54/moby-dick",
+                                                "identifier": "",
                                                 "language": "en",
-                                                "modified": "2018-04-23T23:18:00Z",
-                                                "published": "1851-01-01",
-                                                "publisher": "Feedbooks",
-                                                "description": "title 172 - Moby-Dick is an 1851 novel by Herman Melville. The story tells the adventures of the wandering sailor Ishmael and his voyage on the whaling ship Pequod, commanded by Captain Ahab. Ishmael soon learns that Ahab seeks one specific whale, Moby-Dick, a white whale of tremendous size and ferocity. Comparatively few whaling ships know of Moby-Dick, and fewer yet have encountered him. In a previous encounter, the whale destroyed Ahab's boat and bit off his leg. Ahab intends to exact revenge."
+                                                "modified": "",
+                                                "published": "",
+                                                "publisher": "",
+                                                "belongsTo": {
+                                                        "series": {
+                                                                "name": "",
+                                                                "position": 1
+                                                        }
+                                                },
+                                                "description": ""
                                         },
                                         "links": [
                                                 {
                                                         "rel": "http://opds-spec.org/acquisition/open-access",
-                                                        "href": "https://test.opds.io/assets/moby/file.epub",
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/EGGibson/EGGibson_FearOfGod_EN.epub",
                                                         "type": "application/epub+zip"
                                                 }
                                         ],
                                         "images": [
                                                 {
-                                                        "href": "https://test.opds.io/assets/moby/small.jpg",
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/EGGibson/EGGibson_FearOfGod_EN.png",
                                                         "type": "image/jpeg",
-                                                        "height": 169,
+                                                        "height": 222,
                                                         "width": 110
                                                 },
                                                 {
-                                                        "href": "https://test.opds.io/assets/moby/normal.jpg",
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/EGGibson/EGGibson_FearOfGod_EN.png",
+                                                        "type": "image/jpeg",
+                                                        "height": 400,
+                                                        "width": 260
+                                                }
+                                        ]
+                                },
+                                {
+                                        "metadata": {
+                                                "@type": "http://schema.org/Book",
+                                                "title": "Life in the Spirit",
+                                                "author": {
+                                                        "name": "E. G. Gibson",
+                                                        "sortAs": "Gibson, E. G."
+                                                },
+                                                "identifier": "",
+                                                "language": "en",
+                                                "modified": "",
+                                                "published": "",
+                                                "publisher": "",
+                                                "belongsTo": {
+                                                        "series": {
+                                                                "name": "",
+                                                                "position": 1
+                                                        }
+                                                },
+                                                "description": ""
+                                        },
+                                        "links": [
+                                                {
+                                                        "rel": "http://opds-spec.org/acquisition/open-access",
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/EGGibson/EGGibson_LifeInTheSpirit_EN.epub",
+                                                        "type": "application/epub+zip"
+                                                }
+                                        ],
+                                        "images": [
+                                                {
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/EGGibson/EGGibson_LifeInTheSpirit_EN.png",
+                                                        "type": "image/jpeg",
+                                                        "height": 222,
+                                                        "width": 110
+                                                },
+                                                {
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/EGGibson/EGGibson_LifeInTheSpirit_EN.png",
+                                                        "type": "image/jpeg",
+                                                        "height": 400,
+                                                        "width": 260
+                                                }
+                                        ]
+                                },
+                                {
+                                        "metadata": {
+                                                "@type": "http://schema.org/Book",
+                                                "title": "Prayer",
+                                                "author": {
+                                                        "name": "E. G. Gibson",
+                                                        "sortAs": "Gibson, E. G."
+                                                },
+                                                "identifier": "",
+                                                "language": "en",
+                                                "modified": "",
+                                                "published": "",
+                                                "publisher": "",
+                                                "belongsTo": {
+                                                        "series": {
+                                                                "name": "",
+                                                                "position": 1
+                                                        }
+                                                },
+                                                "description": ""
+                                        },
+                                        "links": [
+                                                {
+                                                        "rel": "http://opds-spec.org/acquisition/open-access",
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/EGGibson/EGGibson_Prayer_EN.epub",
+                                                        "type": "application/epub+zip"
+                                                }
+                                        ],
+                                        "images": [
+                                                {
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/EGGibson/EGGibson_Prayer_EN.png",
+                                                        "type": "image/jpeg",
+                                                        "height": 222,
+                                                        "width": 110
+                                                },
+                                                {
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/EGGibson/EGGibson_Prayer_EN.png",
                                                         "type": "image/jpeg",
                                                         "height": 400,
                                                         "width": 260
