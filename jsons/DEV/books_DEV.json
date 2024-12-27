@@ -1,3 +1,4 @@
+
 {
         "metadata": {
                 "title": "Christian Books List"
@@ -12,23 +13,28 @@
         "navigation": [
                 {
                         "title": "English books",
-                        "href": "https://raw.githubusercontent.com/AppsGR/CookieBoxAPI/refs/heads/main/jsons/DEV/books_DEV.json",
+                        "href": "https://raw.githubusercontent.com/AppsGR/CookieBoxAPI/refs/heads/main/jsons/books.json",
                         "type": "application/opds+json"
-                }
-        ],
-        "groups": [
+                },
                 {
-                        "metadata": {
-                                "title": "John Piper",
-                                "numberOfItems": 20
-                        },
-                        "links": [
-                                {
-                                        "rel": "related",
-                                        "href": "https://raw.githubusercontent.com/AppsGR/CookieBoxAPI/refs/heads/main/jsons/DEV/JohnPiper.json",
-                                        "type": "application/opds+json"
-                                }
-                        ]
+                        "title": "John Piper Books",
+                        "href": "john-piper.json",
+                        "type": "application/opds+json"
+                },
+                {
+                        "title": "E. G. Gibson Books",
+                        "href": "eg-gibson.json",
+                        "type": "application/opds+json"
+                },
+                {
+                        "title": "Martin Luther Books",
+                        "href": "martin-luther.json",
+                        "type": "application/opds+json"
+                },
+                {
+                        "title": "Greg Lovell Books",
+                        "href": "greg-lovell.json",
+                        "type": "application/opds+json"
                 }
         ]
 }
