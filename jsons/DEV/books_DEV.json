@@ -1,0 +1,34 @@
+{
+        "metadata": {
+                "title": "Christian Books List"
+        },
+        "links": [
+                {
+                        "rel": "self",
+                        "href": "https://test.opds.io/2.0/home.json",
+                        "type": "application/opds+json"
+                }
+        ],
+        "navigation": [
+                {
+                        "title": "English books",
+                        "href": "https://raw.githubusercontent.com/AppsGR/CookieBoxAPI/refs/heads/main/jsons/DEV/books_DEV.json",
+                        "type": "application/opds+json"
+                }
+        ],
+        "groups": [
+                {
+                        "metadata": {
+                                "title": "John Piper",
+                                "numberOfItems": 20
+                        },
+                        "links": [
+                                {
+                                        "rel": "related",
+                                        "href": "https://raw.githubusercontent.com/AppsGR/CookieBoxAPI/refs/heads/main/jsons/DEV/JohnPiper.json",
+                                        "type": "application/opds+json"
+                                }
+                        ]
+                }
+        ]
+}
