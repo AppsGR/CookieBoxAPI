@@ -17,6 +17,61 @@
                 }
         ],
         "groups": [
+
+                {
+                        "metadata": {
+                                "title": "Luther",
+                                "numberOfItems": 20
+                        },
+                        "publications": [
+                                {
+                                        "metadata": {
+                                                "@type": "http://schema.org/Book",
+                                                "title": "Concerning Christian",
+                                                "author": {
+                                                        "name": "Martin Luther",
+                                                        "sortAs": "Luther, Martin"
+                                                },
+                                                "identifier": "",
+                                                "language": "en",
+                                                "modified": "",
+                                                "published": "",
+                                                "publisher": "",
+                                                "belongsTo": {
+                                                        "series": {
+                                                                "name": "",
+                                                                "position": 1
+                                                        }
+                                                },
+                                                "description": "Among those monstrous evils of this age with which I have now for three years been waging war, I am sometimes compelled to look to you and to call you to mind, most blessed father Leo. In truth, since you alone are everywhere considered as being the cause of my engaging in war, I cannot at any time fail to remember you; and although I have been compelled by the causeless raging of your impious flatterers against me to appeal from your seat to a future council—fearless of the futile decrees of your predecessors Pius and Julius, who in their foolish tyranny prohibited such an action—yet I have never been so alienated in feeling from your Blessedness as not to have sought with all my might, in diligent prayer and crying to God, all the best gifts for you and for your see. But those who have hitherto endeavoured to terrify me with the majesty of your name and authority, I have begun quite to despise and triumph over. One thing I see remaining which I cannot despise, and this has been the reason of my writing anew to your Blessedness: namely, that I find that blame is cast on me, and that it is imputed to me as a great offence, that in my rashness I am judged to have spared not even your person."
+                                        },
+                                        "links": [
+                                                {
+                                                        "rel": "http://opds-spec.org/acquisition/open-access",
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/MartinLuther/MartinLuther_ConcerningChristian_EN.epub",
+                                                        "type": "application/epub+zip"
+                                                }
+                                        ],
+                                        "images": [
+                                                {
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/MartinLuther/MartinLuther_ConcerningChristian_EN.png",
+                                                        "type": "image/jpeg",
+                                                        "height": 222,
+                                                        "width": 110
+                                                },
+                                                {
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/MartinLuther/MartinLuther_ConcerningChristian_EN.png",
+                                                        "type": "image/jpeg",
+                                                        "height": 400,
+                                                        "width": 260
+                                                }
+                                        ]
+                                }
+                        ]
+                },
+
+
+
                 {
                         "metadata": {
                                 "title": "John Piper",
