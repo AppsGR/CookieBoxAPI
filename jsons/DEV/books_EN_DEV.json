@@ -20,17 +20,17 @@
 
                 {
                         "metadata": {
-                                "title": "Luther",
-                                "numberOfItems": 20
+                                "title": "",
+                                "numberOfItems": 50
                         },
                         "publications": [
                                 {
                                         "metadata": {
                                                 "@type": "http://schema.org/Book",
-                                                "title": "Concerning Christian",
+                                                "title": "An all-Consuming Passion for Jesus",
                                                 "author": {
-                                                        "name": "Martin Luther",
-                                                        "sortAs": "Luther, Martin"
+                                                        "name": "John Piper",
+                                                        "sortAs": "Piper, John"
                                                 },
                                                 "identifier": "",
                                                 "language": "en",
@@ -43,24 +43,244 @@
                                                                 "position": 1
                                                         }
                                                 },
-                                                "description": "Among those monstrous evils of this age with which I have now for three years been waging war, I am sometimes compelled to look to you and to call you to mind, most blessed father Leo. In truth, since you alone are everywhere considered as being the cause of my engaging in war, I cannot at any time fail to remember you; and although I have been compelled by the causeless raging of your impious flatterers against me to appeal from your seat to a future council—fearless of the futile decrees of your predecessors Pius and Julius, who in their foolish tyranny prohibited such an action—yet I have never been so alienated in feeling from your Blessedness as not to have sought with all my might, in diligent prayer and crying to God, all the best gifts for you and for your see. But those who have hitherto endeavoured to terrify me with the majesty of your name and authority, I have begun quite to despise and triumph over. One thing I see remaining which I cannot despise, and this has been the reason of my writing anew to your Blessedness: namely, that I find that blame is cast on me, and that it is imputed to me as a great offence, that in my rashness I am judged to have spared not even your person."
+                                                "description": "Friday morning, January 11, 2013 dawned frigid and dark in Minneapolis. John Piper finished his devotions, slid on his boots, bundled in his coat, and stepped outside to the remnants of an overnight ice storm to walk 600 slippery steps from his Minneapolis home to the door of Bethlehem Baptist Church for the weekly prayer gathering. The gatherings were typically small, sometimes only three or four attended, but two or three is enough of an audience to pray for the congregation’s needs and the gospel’s advance."
                                         },
                                         "links": [
                                                 {
                                                         "rel": "http://opds-spec.org/acquisition/open-access",
-                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/MartinLuther/MartinLuther_ConcerningChristian_EN.epub",
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnPiper/JohnPiper_AnAllConsumingPassionForJesus_EN.epub",
                                                         "type": "application/epub+zip"
                                                 }
                                         ],
                                         "images": [
                                                 {
-                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/MartinLuther/MartinLuther_ConcerningChristian_EN.png",
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnPiper/JohnPiper_AnAllConsumingPassionForJesus_EN.png",
                                                         "type": "image/jpeg",
                                                         "height": 222,
                                                         "width": 110
                                                 },
                                                 {
-                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/MartinLuther/MartinLuther_ConcerningChristian_EN.png",
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnPiper/JohnPiper_AnAllConsumingPassionForJesus_EN.png",
+                                                        "type": "image/jpeg",
+                                                        "height": 400,
+                                                        "width": 260
+                                                }
+                                        ]
+                                },
+                                {
+                                        "metadata": {
+                                                "@type": "http://schema.org/Book",
+                                                "title": "Alive to wonder",
+                                                "author": {
+                                                        "name": "John Piper",
+                                                        "sortAs": "Piper, John"
+                                                },
+                                                "identifier": "",
+                                                "language": "en",
+                                                "modified": "",
+                                                "published": "",
+                                                "publisher": "",
+                                                "numberOfPages": 111,
+                                                "subject": [
+                                                        {
+                                                                "name": "Christianity",
+                                                                "code": "FBFIC028000"
+                                                        },
+                                                        {
+                                                                "name": "Faith",
+                                                                "code": "FBFIC002000"
+                                                        }
+                                                ],
+                                                "description": "C.S. Lewis died fifty years ago this year. More than a generation after his death, Lewis’s works are now more popular and widely read than at any point during his lifetime.1 His thought is so creative and so profound and so extensive that Alister McGrath says, Half a century after his death, the process of receiving and interpreting Lewis has still only begun.\nI put Lewis in the top three writers who have influenced how I read and respond to the world. Yes, the world is a book to be read. And few people could read like Lewis. When Clyde Kilby wrote an anthology of Lewis’s writings he titled it A Mind Awake. He might have called it An Awakening Mind. This is the effect it has. His alertness to reality is contagious."
+                                        },
+                                        "links": [
+                                                {
+                                                        "rel": "http://opds-spec.org/acquisition/open-access",
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnPiper/JohnPiper_AliveToWonder_EN.epub",
+                                                        "type": "application/epub+zip"
+                                                }
+                                        ],
+                                        "images": [
+                                                {
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnPiper/JohnPiper_AliveToWonder_EN.png",
+                                                        "type": "image/png",
+                                                        "height": 190,
+                                                        "width": 116
+                                                },
+                                                {
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnPiper/JohnPiper_AliveToWonder_EN.png",
+                                                        "type": "image/png",
+                                                        "height": 346,
+                                                        "width": 260
+                                                }
+                                        ]
+                                },
+                                {
+                                        "metadata": {
+                                                "@type": "http://schema.org/Book",
+                                                "title": "Take Care How You Listen",
+                                                "author": {
+                                                        "name": "John Piper",
+                                                        "sortAs": "Piper, John"
+                                                },
+                                                "identifier": "",
+                                                "language": "en",
+                                                "modified": "",
+                                                "published": "",
+                                                "publisher": "",
+                                                "belongsTo": {
+                                                        "series": {
+                                                                "name": "",
+                                                                "position": 1
+                                                        }
+                                                },
+                                                "description": "Scripture calls us to consider carefully what sermons we listen to, and but it also calls us to consider how we listen to those sermons. Skillful listening is a non-negotiable skill for everyone who enters a church building on Sunday or plays a sermon through headphones during the week. \n\nThe life and health and growth of our souls are tied to how well we listen. We are wise to periodically evaluate our own hearing of God’s word. If we listen with carelessness, we can drift away from God. On the other hand, if we listen with vigilance we “swim against the stream of sin and indifference.” \n\n\n“Don’t be cavalier in the hearing of God’s Word week after week,” John Piper cautions us. “If it is not softening and saving and healing and bearing fruit, it is probably hardening and blinding and dulling.” It is too easy to slip into what Scripture calls “dullness of hearing,” to hear the weekly sermons without faith, and to see little or no moral fruit in our lives as a result. As Jesus makes clear, ultimately it is how we hear that reveals who we are (John 8:43, 47, 10:4, 27). \n\n\nThose are a few of the points made in this e-book, which is comprised of five unedited sermon manuscripts from the preaching ministry of Pastor John Piper at Bethlehem Baptist Church in Minneapolis, Minnesota. This selection covers a span of fourteen years (the earliest sermon was taken from 1984, the latest from 1998). The five selected manuscripts are published here as they existed when the sermons were preached. There is little doubt that Pastor John would prefer to rework these manuscripts stylistically and even structurally in a number of ways to make them more suitable for reading. Yet we believe these sermon manuscripts in their present state of development are sufficiently clear to benefit our readership now. Where explanation is necessary, footnotes have been added. We pray this resource will serve your personal reflection as you heed Jesus’ command to “take care how you listen.”"
+                                        },
+                                        "links": [
+                                                {
+                                                        "rel": "http://opds-spec.org/acquisition/open-access",
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnPiper/JohnPiper_TakeCareHowYouListen_EN.epub",
+                                                        "type": "application/epub+zip"
+                                                }
+                                        ],
+                                        "images": [
+                                                {
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnPiper/JohnPiper_TakeCareHowYouListen_EN.png",
+                                                        "type": "image/jpeg",
+                                                        "height": 222,
+                                                        "width": 110
+                                                },
+                                                {
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnPiper/JohnPiper_TakeCareHowYouListen_EN.png",
+                                                        "type": "image/jpeg",
+                                                        "height": 400,
+                                                        "width": 260
+                                                }
+                                        ]
+                                },
+                                {
+                                        "metadata": {
+                                                "@type": "http://schema.org/Book",
+                                                "title": "Mom enough",
+                                                "author": {
+                                                        "name": "John Piper",
+                                                        "sortAs": "Piper, John"
+                                                },
+                                                "identifier": "",
+                                                "language": "en",
+                                                "modified": "",
+                                                "published": "",
+                                                "publisher": "",
+                                                "belongsTo": {
+                                                        "series": {
+                                                                "name": "",
+                                                                "position": 1
+                                                        }
+                                                },
+                                                "description": "“Are you mom enough?” The haunting question hung in bold red text over a startling picture of a mother breastfeeding her four-year-old son on the May 2012 cover of Time Magazine. The issue hit newsstands and re-ignited a longstanding mommy war in American culture. We were ready to respond from a Christian perspective at desiringGod.org—but only barely.\nTen months earlier ( July 2011), when our blog was just beginning to take shape and we had no regular female contributors, writer and mother of six, Rachel Jankovic (Idaho), wrote and emailed a submission to us in a Word doc. We pasted it into a blog post, gave it a simple title—“Motherhood Is a Calling (And Where Your Children Rank)”—and hit publish. We simply posted the text and added no image, no color, no visual flair. Despite its minimalism, the post spread virally immediately, and the initial momentum swelled for months. A full three years later, the post has been ‘liked’ on Facebook over 100,000 times and viewed over 500,000 times, both records for anything published on the Desiring God blog. The post now averages 180 visits every day.\nRachel’s post awoke us to the segment of DG blog readers who are wives and mothers eager to apply the gospel to their hearts and homes. Sensing the need, in February of 2012 I wrote in my journal a short prayer: “We need more ‘mommy bloggers’ who can write, who have time to write, and, most importantly, who understand the gospel, joy, and Christian Hedonism, and who are skilled to apply all this to their own hearts in the context of the home and the pressures of motherhood.” It was a prayer echoed verbally many times by the content team here at DG. In the meantime, Rachel was kind enough to continue writing for us. As a team we began reading mommy blogs, gathering leads, and sending requests.\nIn March 2012, we received our first posts from Rachel Pieh Jones (Djibouti) and Christine Hoover (Virginia). The next month we added to the mix Gloria Furman (Dubai) and Trillia Newbell (Tennessee). In June we published a post from Rebekah Merkle (Idaho). In 2013 we began receiving posts from Christina Fox (Florida) and Stacy Reaoch (Pennsylvania).\nWithout intending it, this geographically diverse group of women created a unique, global perspective on biblical femininity. Spread across the country and across the world, these ladies shared one calling: seeking to live fruitfully and faithfully as daughters of God, wives, and moms.\nThe two-year span between March 2012 and March 2014 brackets a golden age of blog publishing for us. These writers combined to publish 89 posts, mostly under the banner: “Grace at Home.” They addressed themes like the mother’s struggle with anxiety, the crucial value of prayer, treasuring children, the challenges of perfectionism, the lies of feminism, the loss of promising careers, dependence on God, and the ugly pride behind mommy wars.\nChristian mothers today find themselves pitched in a battle that will not end until Christ returns, so DG’s female contributors continue to play an essential role in our online voice. But we have found a place more naturally integrated into the overall flow of our content. This spring we retired the “Grace at Home” label, and now look back on it as a banner over God’s overwhelmingly gracious answer to our prayers.\nMom Enough is a compilation of the most popular pieces from this golden age, here published in chronological order. As you will see, the aim of Mom Enough is not to boost a mother’s self-sufficiency, but to build her fearlessness as she finds her sufficiency outside of herself (1 Pet. 3:1–6). This paradox is the secret power of godly mothers. Becoming mom enough comes as a result of answering the question, “Are you mom enough?,” with a firm no.\nWe begin with the blog post from Rachel Jankovic that started it all."
+                                        },
+                                        "links": [
+                                                {
+                                                        "rel": "http://opds-spec.org/acquisition/open-access",
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnPiper/JohnPiper_MomEnough_EN.epub",
+                                                        "type": "application/epub+zip"
+                                                }
+                                        ],
+                                        "images": [
+                                                {
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnPiper/JohnPiper_MomEnough_EN.png",
+                                                        "type": "image/jpeg",
+                                                        "height": 222,
+                                                        "width": 110
+                                                },
+                                                {
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnPiper/JohnPiper_MomEnough_EN.png",
+                                                        "type": "image/jpeg",
+                                                        "height": 400,
+                                                        "width": 260
+                                                }
+                                        ]
+                                },
+                                {
+                                        "metadata": {
+                                                "@type": "http://schema.org/Book",
+                                                "title": "Sanctification in the Everyday",
+                                                "author": {
+                                                        "name": "John Piper",
+                                                        "sortAs": "Piper, John"
+                                                },
+                                                "identifier": "",
+                                                "language": "en",
+                                                "modified": "",
+                                                "published": "",
+                                                "publisher": "",
+                                                "belongsTo": {
+                                                        "series": {
+                                                                "name": "",
+                                                                "position": 1
+                                                        }
+                                                },
+                                                "description": "God is great, God is good, and he can do whatever he wants. This is the starting place for any serious topical focus: to have the view of his greatness before us and to be swallowed up by it. The LORD — the triune God whose essence we can't divide and whose persons we can't blend. He is utterly independent, gloriously sovereign, never arbitrary. This is precisely the reason we exist, that we might enjoy him, to his glory. And that’s why sanctification matters.\nGod has designed that the salvation of his people not only involve his unconditional election and Jesus's redemptive triumph, but also the perfecting work of his Spirit — a work that seeps down into the nitty-gritty of our lives and wields the gospel's victory one swing at a time.\nThis is high-voltage power we're talking about. Power that we find in looking back and in looking forward. John Piper writes, \"The only sin that we can defeat is a forgiven sin.\" A forgiven sin is something we see in light of the cross (past event) where Jesus bore the wrath we deserved and kicked the teeth out of our guilt. This fuels the sin- conquering power needed now, in the present. But we also look forward, to the future. The past work of Christ secures the life and joy of our future with Christ. It's set. Done. And this also fuels the power needed now, in the present. Piper writes, \"Sin can't enslave a person who is utterly confident and sure and hope-filled in the infinite happiness of life with Christ in the future.\"\nIn God's wisdom, he spans every tense: the past work of Jesus outside of us and the future promise of Jesus for us collide in the present to empower our wills to kill sin. To grow in grace. To be sanctified. This e-book includes three sermons by Pastor John Piper that get at the heart of this in such texts as Philippians 2:12–13 and Romans 6:5–10. There is also a more practical appendix of some acronyms that Pastor John has taught over his 30-plus-year preaching ministry. Whether fighting a specific sin or walking by faith amid stressful circumstances, the aim of this e-book is to add to your arsenal for the everyday work of sanctification, for the glory of God."
+                                        },
+                                        "links": [
+                                                {
+                                                        "rel": "http://opds-spec.org/acquisition/open-access",
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnPiper/JohnPiper_SanctificationInTheEveryday_EN.epub",
+                                                        "type": "application/epub+zip"
+                                                }
+                                        ],
+                                        "images": [
+                                                {
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnPiper/JohnPiper_SanctificationInTheEveryday_EN.png",
+                                                        "type": "image/jpeg",
+                                                        "height": 222,
+                                                        "width": 110
+                                                },
+                                                {
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnPiper/JohnPiper_SanctificationInTheEveryday_EN.png",
+                                                        "type": "image/jpeg",
+                                                        "height": 400,
+                                                        "width": 260
+                                                }
+                                        ]
+                                },
+                                {
+                                        "metadata": {
+                                                "@type": "http://schema.org/Book",
+                                                "title": "Fear of God",
+                                                "author": {
+                                                        "name": "E. G., Gibson",
+                                                        "sortAs": "Gibson, E. G."
+                                                },
+                                                "identifier": "",
+                                                "language": "en",
+                                                "modified": "",
+                                                "published": "",
+                                                "publisher": "",
+                                                "belongsTo": {
+                                                        "series": {
+                                                                "name": "",
+                                                                "position": 1
+                                                        }
+                                                },
+                                                "description": "The fear of the Lord as it related to the promised Messiah was predicted by Isaiah 800 yrs before his birth. In Isaiah’s Servant Songs we read that “his delight is in the fear of the Lord” Isa 11:6\n  \n“Isa 11:1-5 “ The Spirit will give penetrating diagnosis in “David’s” ministry – wisdom and discernment; the Spirit will enable him to give correct advice and the know-how or ability to carry it out; the Spirit will above all produce in “David” the knowledge of the fear of Yahweh. It will be his supreme delight to fear Yahweh – that is, to enter into that relation of absolute dependence on Yahweh which receives reciprocally a fellowship with Yahweh, sharing together in love and united purposes”. Dr E G Gibson (The Spirit and the Eschaton in O.T.)"
+                                        },
+                                        "links": [
+                                                {
+                                                        "rel": "http://opds-spec.org/acquisition/open-access",
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/EGGibson/EGGibson_FearOfGod_EN.epub",
+                                                        "type": "application/epub+zip"
+                                                }
+                                        ],
+                                        "images": [
+                                                {
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/EGGibson/EGGibson_FearOfGod_EN.png",
+                                                        "type": "image/jpeg",
+                                                        "height": 222,
+                                                        "width": 110
+                                                },
+                                                {
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/EGGibson/EGGibson_FearOfGod_EN.png",
                                                         "type": "image/jpeg",
                                                         "height": 400,
                                                         "width": 260
@@ -973,271 +1193,6 @@
                                                         "width": 260
                                                 }
                                         ]
-                                }
-                        ]
-                }
-        ],
-        "publications": [
-                {
-                        "metadata": {
-                                "@type": "http://schema.org/Book",
-                                "title": "An all-Consuming Passion for Jesus",
-                                "author": {
-                                        "name": "John Piper",
-                                        "sortAs": "Piper, John"
-                                },
-                                "identifier": "",
-                                "language": "en",
-                                "modified": "",
-                                "published": "",
-                                "publisher": "",
-                                "belongsTo": {
-                                        "series": {
-                                                "name": "",
-                                                "position": 1
-                                        }
-                                },
-                                "description": "Friday morning, January 11, 2013 dawned frigid and dark in Minneapolis. John Piper finished his devotions, slid on his boots, bundled in his coat, and stepped outside to the remnants of an overnight ice storm to walk 600 slippery steps from his Minneapolis home to the door of Bethlehem Baptist Church for the weekly prayer gathering. The gatherings were typically small, sometimes only three or four attended, but two or three is enough of an audience to pray for the congregation’s needs and the gospel’s advance."
-                        },
-                        "links": [
-                                {
-                                        "rel": "http://opds-spec.org/acquisition/open-access",
-                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnPiper/JohnPiper_AnAllConsumingPassionForJesus_EN.epub",
-                                        "type": "application/epub+zip"
-                                }
-                        ],
-                        "images": [
-                                {
-                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnPiper/JohnPiper_AnAllConsumingPassionForJesus_EN.png",
-                                        "type": "image/jpeg",
-                                        "height": 222,
-                                        "width": 110
-                                },
-                                {
-                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnPiper/JohnPiper_AnAllConsumingPassionForJesus_EN.png",
-                                        "type": "image/jpeg",
-                                        "height": 400,
-                                        "width": 260
-                                }
-                        ]
-                },
-                {
-                        "metadata": {
-                                "@type": "http://schema.org/Book",
-                                "title": "Alive to wonder",
-                                "author": {
-                                        "name": "John Piper",
-                                        "sortAs": "Piper, John"
-                                },
-                                "identifier": "",
-                                "language": "en",
-                                "modified": "",
-                                "published": "",
-                                "publisher": "",
-                                "numberOfPages": 111,
-                                "subject": [
-                                        {
-                                                "name": "Christianity",
-                                                "code": "FBFIC028000"
-                                        },
-                                        {
-                                                "name": "Faith",
-                                                "code": "FBFIC002000"
-                                        }
-                                ],
-                                "description": "C.S. Lewis died fifty years ago this year. More than a generation after his death, Lewis’s works are now more popular and widely read than at any point during his lifetime.1 His thought is so creative and so profound and so extensive that Alister McGrath says, Half a century after his death, the process of receiving and interpreting Lewis has still only begun.\nI put Lewis in the top three writers who have influenced how I read and respond to the world. Yes, the world is a book to be read. And few people could read like Lewis. When Clyde Kilby wrote an anthology of Lewis’s writings he titled it A Mind Awake. He might have called it An Awakening Mind. This is the effect it has. His alertness to reality is contagious."
-                        },
-                        "links": [
-                                {
-                                        "rel": "http://opds-spec.org/acquisition/open-access",
-                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnPiper/JohnPiper_AliveToWonder_EN.epub",
-                                        "type": "application/epub+zip"
-                                }
-                        ],
-                        "images": [
-                                {
-                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnPiper/JohnPiper_AliveToWonder_EN.png",
-                                        "type": "image/png",
-                                        "height": 190,
-                                        "width": 116
-                                },
-                                {
-                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnPiper/JohnPiper_AliveToWonder_EN.png",
-                                        "type": "image/png",
-                                        "height": 346,
-                                        "width": 260
-                                }
-                        ]
-                },
-                {
-                        "metadata": {
-                                "@type": "http://schema.org/Book",
-                                "title": "Take Care How You Listen",
-                                "author": {
-                                        "name": "John Piper",
-                                        "sortAs": "Piper, John"
-                                },
-                                "identifier": "",
-                                "language": "en",
-                                "modified": "",
-                                "published": "",
-                                "publisher": "",
-                                "belongsTo": {
-                                        "series": {
-                                                "name": "",
-                                                "position": 1
-                                        }
-                                },
-                                "description": "Scripture calls us to consider carefully what sermons we listen to, and but it also calls us to consider how we listen to those sermons. Skillful listening is a non-negotiable skill for everyone who enters a church building on Sunday or plays a sermon through headphones during the week. \n\nThe life and health and growth of our souls are tied to how well we listen. We are wise to periodically evaluate our own hearing of God’s word. If we listen with carelessness, we can drift away from God. On the other hand, if we listen with vigilance we “swim against the stream of sin and indifference.” \n\n\n“Don’t be cavalier in the hearing of God’s Word week after week,” John Piper cautions us. “If it is not softening and saving and healing and bearing fruit, it is probably hardening and blinding and dulling.” It is too easy to slip into what Scripture calls “dullness of hearing,” to hear the weekly sermons without faith, and to see little or no moral fruit in our lives as a result. As Jesus makes clear, ultimately it is how we hear that reveals who we are (John 8:43, 47, 10:4, 27). \n\n\nThose are a few of the points made in this e-book, which is comprised of five unedited sermon manuscripts from the preaching ministry of Pastor John Piper at Bethlehem Baptist Church in Minneapolis, Minnesota. This selection covers a span of fourteen years (the earliest sermon was taken from 1984, the latest from 1998). The five selected manuscripts are published here as they existed when the sermons were preached. There is little doubt that Pastor John would prefer to rework these manuscripts stylistically and even structurally in a number of ways to make them more suitable for reading. Yet we believe these sermon manuscripts in their present state of development are sufficiently clear to benefit our readership now. Where explanation is necessary, footnotes have been added. We pray this resource will serve your personal reflection as you heed Jesus’ command to “take care how you listen.”"
-                        },
-                        "links": [
-                                {
-                                        "rel": "http://opds-spec.org/acquisition/open-access",
-                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnPiper/JohnPiper_TakeCareHowYouListen_EN.epub",
-                                        "type": "application/epub+zip"
-                                }
-                        ],
-                        "images": [
-                                {
-                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnPiper/JohnPiper_TakeCareHowYouListen_EN.png",
-                                        "type": "image/jpeg",
-                                        "height": 222,
-                                        "width": 110
-                                },
-                                {
-                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnPiper/JohnPiper_TakeCareHowYouListen_EN.png",
-                                        "type": "image/jpeg",
-                                        "height": 400,
-                                        "width": 260
-                                }
-                        ]
-                },
-                {
-                        "metadata": {
-                                "@type": "http://schema.org/Book",
-                                "title": "Mom enough",
-                                "author": {
-                                        "name": "John Piper",
-                                        "sortAs": "Piper, John"
-                                },
-                                "identifier": "",
-                                "language": "en",
-                                "modified": "",
-                                "published": "",
-                                "publisher": "",
-                                "belongsTo": {
-                                        "series": {
-                                                "name": "",
-                                                "position": 1
-                                        }
-                                },
-                                "description": "“Are you mom enough?” The haunting question hung in bold red text over a startling picture of a mother breastfeeding her four-year-old son on the May 2012 cover of Time Magazine. The issue hit newsstands and re-ignited a longstanding mommy war in American culture. We were ready to respond from a Christian perspective at desiringGod.org—but only barely.\nTen months earlier ( July 2011), when our blog was just beginning to take shape and we had no regular female contributors, writer and mother of six, Rachel Jankovic (Idaho), wrote and emailed a submission to us in a Word doc. We pasted it into a blog post, gave it a simple title—“Motherhood Is a Calling (And Where Your Children Rank)”—and hit publish. We simply posted the text and added no image, no color, no visual flair. Despite its minimalism, the post spread virally immediately, and the initial momentum swelled for months. A full three years later, the post has been ‘liked’ on Facebook over 100,000 times and viewed over 500,000 times, both records for anything published on the Desiring God blog. The post now averages 180 visits every day.\nRachel’s post awoke us to the segment of DG blog readers who are wives and mothers eager to apply the gospel to their hearts and homes. Sensing the need, in February of 2012 I wrote in my journal a short prayer: “We need more ‘mommy bloggers’ who can write, who have time to write, and, most importantly, who understand the gospel, joy, and Christian Hedonism, and who are skilled to apply all this to their own hearts in the context of the home and the pressures of motherhood.” It was a prayer echoed verbally many times by the content team here at DG. In the meantime, Rachel was kind enough to continue writing for us. As a team we began reading mommy blogs, gathering leads, and sending requests.\nIn March 2012, we received our first posts from Rachel Pieh Jones (Djibouti) and Christine Hoover (Virginia). The next month we added to the mix Gloria Furman (Dubai) and Trillia Newbell (Tennessee). In June we published a post from Rebekah Merkle (Idaho). In 2013 we began receiving posts from Christina Fox (Florida) and Stacy Reaoch (Pennsylvania).\nWithout intending it, this geographically diverse group of women created a unique, global perspective on biblical femininity. Spread across the country and across the world, these ladies shared one calling: seeking to live fruitfully and faithfully as daughters of God, wives, and moms.\nThe two-year span between March 2012 and March 2014 brackets a golden age of blog publishing for us. These writers combined to publish 89 posts, mostly under the banner: “Grace at Home.” They addressed themes like the mother’s struggle with anxiety, the crucial value of prayer, treasuring children, the challenges of perfectionism, the lies of feminism, the loss of promising careers, dependence on God, and the ugly pride behind mommy wars.\nChristian mothers today find themselves pitched in a battle that will not end until Christ returns, so DG’s female contributors continue to play an essential role in our online voice. But we have found a place more naturally integrated into the overall flow of our content. This spring we retired the “Grace at Home” label, and now look back on it as a banner over God’s overwhelmingly gracious answer to our prayers.\nMom Enough is a compilation of the most popular pieces from this golden age, here published in chronological order. As you will see, the aim of Mom Enough is not to boost a mother’s self-sufficiency, but to build her fearlessness as she finds her sufficiency outside of herself (1 Pet. 3:1–6). This paradox is the secret power of godly mothers. Becoming mom enough comes as a result of answering the question, “Are you mom enough?,” with a firm no.\nWe begin with the blog post from Rachel Jankovic that started it all."
-                        },
-                        "links": [
-                                {
-                                        "rel": "http://opds-spec.org/acquisition/open-access",
-                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnPiper/JohnPiper_MomEnough_EN.epub",
-                                        "type": "application/epub+zip"
-                                }
-                        ],
-                        "images": [
-                                {
-                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnPiper/JohnPiper_MomEnough_EN.png",
-                                        "type": "image/jpeg",
-                                        "height": 222,
-                                        "width": 110
-                                },
-                                {
-                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnPiper/JohnPiper_MomEnough_EN.png",
-                                        "type": "image/jpeg",
-                                        "height": 400,
-                                        "width": 260
-                                }
-                        ]
-                },
-                {
-                        "metadata": {
-                                "@type": "http://schema.org/Book",
-                                "title": "Sanctification in the Everyday",
-                                "author": {
-                                        "name": "John Piper",
-                                        "sortAs": "Piper, John"
-                                },
-                                "identifier": "",
-                                "language": "en",
-                                "modified": "",
-                                "published": "",
-                                "publisher": "",
-                                "belongsTo": {
-                                        "series": {
-                                                "name": "",
-                                                "position": 1
-                                        }
-                                },
-                                "description": "God is great, God is good, and he can do whatever he wants. This is the starting place for any serious topical focus: to have the view of his greatness before us and to be swallowed up by it. The LORD — the triune God whose essence we can't divide and whose persons we can't blend. He is utterly independent, gloriously sovereign, never arbitrary. This is precisely the reason we exist, that we might enjoy him, to his glory. And that’s why sanctification matters.\nGod has designed that the salvation of his people not only involve his unconditional election and Jesus's redemptive triumph, but also the perfecting work of his Spirit — a work that seeps down into the nitty-gritty of our lives and wields the gospel's victory one swing at a time.\nThis is high-voltage power we're talking about. Power that we find in looking back and in looking forward. John Piper writes, \"The only sin that we can defeat is a forgiven sin.\" A forgiven sin is something we see in light of the cross (past event) where Jesus bore the wrath we deserved and kicked the teeth out of our guilt. This fuels the sin- conquering power needed now, in the present. But we also look forward, to the future. The past work of Christ secures the life and joy of our future with Christ. It's set. Done. And this also fuels the power needed now, in the present. Piper writes, \"Sin can't enslave a person who is utterly confident and sure and hope-filled in the infinite happiness of life with Christ in the future.\"\nIn God's wisdom, he spans every tense: the past work of Jesus outside of us and the future promise of Jesus for us collide in the present to empower our wills to kill sin. To grow in grace. To be sanctified. This e-book includes three sermons by Pastor John Piper that get at the heart of this in such texts as Philippians 2:12–13 and Romans 6:5–10. There is also a more practical appendix of some acronyms that Pastor John has taught over his 30-plus-year preaching ministry. Whether fighting a specific sin or walking by faith amid stressful circumstances, the aim of this e-book is to add to your arsenal for the everyday work of sanctification, for the glory of God."
-                        },
-                        "links": [
-                                {
-                                        "rel": "http://opds-spec.org/acquisition/open-access",
-                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnPiper/JohnPiper_SanctificationInTheEveryday_EN.epub",
-                                        "type": "application/epub+zip"
-                                }
-                        ],
-                        "images": [
-                                {
-                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnPiper/JohnPiper_SanctificationInTheEveryday_EN.png",
-                                        "type": "image/jpeg",
-                                        "height": 222,
-                                        "width": 110
-                                },
-                                {
-                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnPiper/JohnPiper_SanctificationInTheEveryday_EN.png",
-                                        "type": "image/jpeg",
-                                        "height": 400,
-                                        "width": 260
-                                }
-                        ]
-                },
-                {
-                        "metadata": {
-                                "@type": "http://schema.org/Book",
-                                "title": "Fear of God",
-                                "author": {
-                                        "name": "E. G., Gibson",
-                                        "sortAs": "Gibson, E. G."
-                                },
-                                "identifier": "",
-                                "language": "en",
-                                "modified": "",
-                                "published": "",
-                                "publisher": "",
-                                "belongsTo": {
-                                        "series": {
-                                                "name": "",
-                                                "position": 1
-                                        }
-                                },
-                                "description": "The fear of the Lord as it related to the promised Messiah was predicted by Isaiah 800 yrs before his birth. In Isaiah’s Servant Songs we read that “his delight is in the fear of the Lord” Isa 11:6\n  \n“Isa 11:1-5 “ The Spirit will give penetrating diagnosis in “David’s” ministry – wisdom and discernment; the Spirit will enable him to give correct advice and the know-how or ability to carry it out; the Spirit will above all produce in “David” the knowledge of the fear of Yahweh. It will be his supreme delight to fear Yahweh – that is, to enter into that relation of absolute dependence on Yahweh which receives reciprocally a fellowship with Yahweh, sharing together in love and united purposes”. Dr E G Gibson (The Spirit and the Eschaton in O.T.)"
-                        },
-                        "links": [
-                                {
-                                        "rel": "http://opds-spec.org/acquisition/open-access",
-                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/EGGibson/EGGibson_FearOfGod_EN.epub",
-                                        "type": "application/epub+zip"
-                                }
-                        ],
-                        "images": [
-                                {
-                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/EGGibson/EGGibson_FearOfGod_EN.png",
-                                        "type": "image/jpeg",
-                                        "height": 222,
-                                        "width": 110
-                                },
-                                {
-                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/EGGibson/EGGibson_FearOfGod_EN.png",
-                                        "type": "image/jpeg",
-                                        "height": 400,
-                                        "width": 260
                                 }
                         ]
                 }
