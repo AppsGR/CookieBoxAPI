@@ -727,10 +727,65 @@
                 },
                 {
                         "metadata": {
-                                "title": "E. G. Gibson",
+                                "title": "aaaa",
                                 "numberOfItems": 20
                         },
                         "publications": [
+                                {
+                                        "metadata": {
+                                                "@type": "http://schema.org/Book",
+                                                "title": "Title",
+                                                "author": {
+                                                        "name": "Name",
+                                                        "sortAs": "Gibson, E. G."
+                                                },
+                                                "identifier": "",
+                                                "language": "en",
+                                                "modified": "",
+                                                "published": "",
+                                                "publisher": "",
+                                                "belongsTo": {
+                                                        "series": {
+                                                                "name": "",
+                                                                "position": 1
+                                                        }
+                                                },
+                                                "description": "The fear of the Lord as it related to the promised Messiah was predicted by Isaiah 800 yrs before his birth. In Isaiah’s Servant Songs we read that “his delight is in the fear of the Lord” Isa 11:6\n  \n“Isa 11:1-5 “ The Spirit will give penetrating diagnosis in “David’s” ministry – wisdom and discernment; the Spirit will enable him to give correct advice and the know-how or ability to carry it out; the Spirit will above all produce in “David” the knowledge of the fear of Yahweh. It will be his supreme delight to fear Yahweh – that is, to enter into that relation of absolute dependence on Yahweh which receives reciprocally a fellowship with Yahweh, sharing together in love and united purposes”. Dr E G Gibson (The Spirit and the Eschaton in O.T.)"
+                                        },
+                                        "links": [
+                                                {
+                                                        "rel": "http://opds-spec.org/acquisition/open-access",
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/EGGibson/EGGibson_FearOfGod_EN.epub",
+                                                        "type": "application/epub+zip"
+                                                }
+                                        ],
+                                        "images": [
+                                                {
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/EGGibson/EGGibson_FearOfGod_EN.png",
+                                                        "type": "image/jpeg",
+                                                        "height": 222,
+                                                        "width": 110
+                                                },
+                                                {
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/EGGibson/EGGibson_FearOfGod_EN.png",
+                                                        "type": "image/jpeg",
+                                                        "height": 400,
+                                                        "width": 260
+                                                }
+                                        ]
+                                },
+
+
+
+
+
+
+
+
+
+
+
+
                                 {
                                         "metadata": {
                                                 "@type": "http://schema.org/Book",
