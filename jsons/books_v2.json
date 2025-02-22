@@ -816,6 +816,49 @@
                                                         "width": 260
                                                 }
                                         ]
+                                },
+                                {
+                                        "metadata": {
+                                                "@type": "http://schema.org/Book",
+                                                "title": "Life in the Spirit",
+                                                "author": {
+                                                        "name": "E. G., Gibson",
+                                                        "sortAs": "Gibson, E. G."
+                                                },
+                                                "identifier": "",
+                                                "language": "en",
+                                                "modified": "",
+                                                "published": "",
+                                                "publisher": "",
+                                                "belongsTo": {
+                                                        "series": {
+                                                                "name": "",
+                                                                "position": 1
+                                                        }
+                                                },
+                                                "description": "For those who knew Ted Gibson and sat under his ministry, the following Bible studies, first published in The Australian Baptist in 1984, will be redolent of his character and style as a preacher and teacher.\n\nHe himself would be the first to acknowledge the influence of his Principal, the Rev George Morling, who lived and taught the meaning of “life in the Spirit”. From his earliest days as a young theological graduate of the Baptist Theological College of NSW (now Morling College), Ted Gibson felt the call to preach. Although he had degrees in Anthropology and Science as well as Theology, his great love was focused in the Scriptures. In the following brief popular studies, he quotes or refers to at least 30 of the 66 books of the Bible, including nine from the Old Testament.\n\nThe topic of the series is explicit in the title: Life in the Spirit, but in every study the focus is upon Jesus Christ. This is entirely appropriate since Christ Himself said in John 16:13ff: “When he, the Spirit of truth comes, he will guide you into all truth. . . . He will glorify me.” These studies illustrate the truth that a rich full-orbed doctrine of the Holy Spirit will inevitably glorify Christ."
+                                        },
+                                        "links": [
+                                                {
+                                                        "rel": "http://opds-spec.org/acquisition/open-access",
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/EGGibson/EGGibson_LifeInTheSpirit_EN.epub",
+                                                        "type": "application/epub+zip"
+                                                }
+                                        ],
+                                        "images": [
+                                                {
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/EGGibson/EGGibson_LifeInTheSpirit_EN.png",
+                                                        "type": "image/jpeg",
+                                                        "height": 222,
+                                                        "width": 110
+                                                },
+                                                {
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/EGGibson/EGGibson_LifeInTheSpirit_EN.png",
+                                                        "type": "image/jpeg",
+                                                        "height": 400,
+                                                        "width": 260
+                                                }
+                                        ]
                                 }
                         ]
                 },
