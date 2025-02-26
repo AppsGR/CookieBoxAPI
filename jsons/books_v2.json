@@ -725,6 +725,68 @@
                                 }
                         ]
                 },
+
+
+
+
+
+
+                {
+                        "metadata": {
+                                "title": "Harvestime",
+                                "numberOfItems": 20
+                        },
+                        "publications": [
+                                {
+                                        "metadata": {
+                                                "@type": "http://schema.org/Book",
+                                                "title": "Creative Bible Study",
+                                                "author": {
+                                                        "name": "",
+                                                        "sortAs": "Harvestime, Harvestime"
+                                                },
+                                                "identifier": "",
+                                                "language": "en",
+                                                "modified": "",
+                                                "published": "",
+                                                "publisher": "",
+                                                "belongsTo": {
+                                                        "series": {
+                                                                "name": "",
+                                                                "position": 1
+                                                        }
+                                                },
+                                                "description": "The New Testament Prophet John the Baptist was known as a \"voice crying in the wilderness\" as he proclaimed the Word of God. His message was fresh, powerful, and relevant to the spiritual needs of his time. \n\n\n\n\n\nMany people today have become echoes of spiritual truths they hear from those around them. They are not a voice through which God can reveal His message, but are only an echo of what they hear from others. They are like the prophets of whom God said, \"steal my words every one from his neighbor\" (Jeremiah 23:30).\n\n\n\n\n\nIn order to speak God's words you must first know what God has said. The purpose of this course is to equip you to understand God's Word. You will need only this manual, a Bible, and the guidance of the Holy Spirit to learn these \"Creative Bible Study Methods.\"\n\n\n\n\n\nA method is an organized way to accomplish something. It is an orderly plan. Bible study methods are an organized plan to study God's written Word. The word \"creative\" means \"having the ability to produce that which is new.\" This course teaches you how to study God's Word for yourself. You will not have to rely on the research of others because you will be able to create your own Bible studies based on your study of God's written Word.\n\n\n\n\n\nBy learning proper Bible study methods you will become a voice through which God can speak His truths to a spiritually hungry world. You will no longer only be an echo of what you hear from others. \n\n\n\n\n\n\"Creative Bible Study Methods\" introduces the Bible as the written Word of the one true God. It explains divisions of the Bible, versions, translations, and paraphrases. First, the course guides you to discover what the Bible teaches about itself, then creative methods are explained and you are given the opportunity to use each method discussed. \n\n\n\n\n\nThe course also explains how to outline, make study notes, mark your Bible for easy reference, and reduce lengthy passages to simple charts. The course guides you to proper interpretation and application of God's Word. It directs attention to the greatest Teacher of all, the Holy Spirit. If you follow the guidelines presented, you will experience a new, creative spiritual life flowing within you. \n\n\n\n\n\n\n\n\nNo method of Bible study can replace the teaching ministry of the Holy Spirit. He is the spiritual force that endues a method with creative power. He whispers into the human spirit the truths of God's Word which create a new spiritual life flow."
+                                        },
+                                        "links": [
+                                                {
+                                                        "rel": "http://opds-spec.org/acquisition/open-access",
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/Harvestime/Harvestime_CreativeBibleStudy_EN.epub",
+                                                        "type": "application/epub+zip"
+                                                }
+                                        ],
+                                        "images": [
+                                                {
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/Harvestime/Harvestime_CreativeBibleStudy_EN.png",
+                                                        "type": "image/jpeg",
+                                                        "height": 222,
+                                                        "width": 110
+                                                },
+                                                {
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/Harvestime/Harvestime_CreativeBibleStudy_EN.png",
+                                                        "type": "image/jpeg",
+                                                        "height": 400,
+                                                        "width": 260
+                                                }
+                                        ]
+                                }
+                        ]
+                },
+
+
+
+
+
                 {
                         "metadata": {
                                 "title": "E. G. Gibson",
