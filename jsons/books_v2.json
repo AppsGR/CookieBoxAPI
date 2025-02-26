@@ -725,12 +725,6 @@
                                 }
                         ]
                 },
-
-
-
-
-
-
                 {
                         "metadata": {
                                 "title": "Harvestime",
@@ -779,14 +773,138 @@
                                                         "width": 260
                                                 }
                                         ]
+                                },
+                                {
+                                        "metadata": {
+                                                "@type": "http://schema.org/Book",
+                                                "title": "Divine Provision",
+                                                "author": {
+                                                        "name": "",
+                                                        "sortAs": "Harvestime, Harvestime"
+                                                },
+                                                "identifier": "",
+                                                "language": "en",
+                                                "modified": "",
+                                                "published": "",
+                                                "publisher": "",
+                                                "belongsTo": {
+                                                        "series": {
+                                                                "name": "",
+                                                                "position": 1
+                                                        }
+                                                },
+                                                "description": "We are living in a time of tremendous financial instability. Rising debt, increasing unemployment, homelessness, and poverty are major concerns throughout the world. Businesses are failing. Nations that were formerly great economic giants are in financial upheaval. Rich businessmen and stockbrokers are watching wealth slip from their grasp. \n\n\n\n\n\nThere is much fearful speculation about what lies ahead. How high will inflation rise? How tough will these economically hard times be and how long will they last? People are questioning, \"Will I be able to hold on to my job? Will I be able to make my house payment?\"\n\n\nAs a result, churches and Christian ministries that are supported by donations are also struggling to maintain their outreaches.\n\n\n\n\n\nThis book, \"Divine Provision,\" will prepare you personally and your ministry corporately to face what is happening now and what will occur in the future in the financial realm. Your position in the face of the current and impending crises will not be one of weakness, but it will be a stance of strength, faith, and power, \"For God hath not given us the spirit of fear; but of power, and of love, and of a sound mind\" (2 Timothy 1:7).\n\n\n\n\n\nIt is important that you understand biblical financial strategies because God wants to use you--your talents, your resources, and your ministry--to reap an end-time harvest of souls around the world. The only way you can do this is to be free from financial problems by entering into a new dimension of divine provision."
+                                        },
+                                        "links": [
+                                                {
+                                                        "rel": "http://opds-spec.org/acquisition/open-access",
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/Harvestime/Harvestime_DivineProvision_EN.epub",
+                                                        "type": "application/epub+zip"
+                                                }
+                                        ],
+                                        "images": [
+                                                {
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/Harvestime/Harvestime_DivineProvision_EN.png",
+                                                        "type": "image/jpeg",
+                                                        "height": 222,
+                                                        "width": 110
+                                                },
+                                                {
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/Harvestime/Harvestime_DivineProvision_EN.png",
+                                                        "type": "image/jpeg",
+                                                        "height": 400,
+                                                        "width": 260
+                                                }
+                                        ]
+                                },
+                                {
+                                        "metadata": {
+                                                "@type": "http://schema.org/Book",
+                                                "title": "Environmental Analysis",
+                                                "author": {
+                                                        "name": "",
+                                                        "sortAs": "Harvestime, Harvestime"
+                                                },
+                                                "identifier": "",
+                                                "language": "en",
+                                                "modified": "",
+                                                "published": "",
+                                                "publisher": "",
+                                                "belongsTo": {
+                                                        "series": {
+                                                                "name": "",
+                                                                "position": 1
+                                                        }
+                                                },
+                                                "description": "This course introduces principles of environmental analysis necessary for organizing and mobilizing spiritual resources for evangelizing. \n\n\n\n\n\nThis study stresses the importance of environmental analysis in planning strategies to reach the world with the Gospel. \"Environmental analysis\" is defined and reviewed in the Old and New Testament records. Instructions are given for doing a personal environmental analysis and analyzing people groups, geographic areas, nations, regions of the world, and Christian organizations. \n\n\n\n\n\nThis course is second in a series of three in the \"Organizing Module\" of training offered by Harvestime International Network. \"Biblical Management Principles\" precedes this course, and \"Management By Objectives\" follows it. \n\n\n\n\n\nIt is recommended that these three courses be studied in their suggested order for proper understanding of the leadership, planning, and organization necessary for effective ministry."
+                                        },
+                                        "links": [
+                                                {
+                                                        "rel": "http://opds-spec.org/acquisition/open-access",
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/Harvestime/Harvestime_EnvironmentalAnalysis_EN.epub",
+                                                        "type": "application/epub+zip"
+                                                }
+                                        ],
+                                        "images": [
+                                                {
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/Harvestime/Harvestime_EnvironmentalAnalysis_EN.png",
+                                                        "type": "image/jpeg",
+                                                        "height": 222,
+                                                        "width": 110
+                                                },
+                                                {
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/Harvestime/Harvestime_EnvironmentalAnalysis_EN.png",
+                                                        "type": "image/jpeg",
+                                                        "height": 400,
+                                                        "width": 260
+                                                }
+                                        ]
+                                },
+                                {
+                                        "metadata": {
+                                                "@type": "http://schema.org/Book",
+                                                "title": "Foundations Of Faith",
+                                                "author": {
+                                                        "name": "",
+                                                        "sortAs": "Harvestime, Harvestime"
+                                                },
+                                                "identifier": "",
+                                                "language": "en",
+                                                "modified": "",
+                                                "published": "",
+                                                "publisher": "",
+                                                "belongsTo": {
+                                                        "series": {
+                                                                "name": "",
+                                                                "position": 1
+                                                        }
+                                                },
+                                                "description": "The basic doctrines of the Christian faith are the subject of this course. Doctrines are a collection of teachings on a certain subject. The basic doctrines of the Christian faith are the teachings of Jesus Christ recorded in the Bible.\n\n\n\n\n\nThese doctrines are listed in the Bible in the book of Hebrews: \n\n\n\n\n\nTherefore leaving the principles of the doctrine of Christ, let us go on unto perfection; not laying again the foundation of repentance from dead works, and of faith toward God,\n\n\n\n\n\nOf the doctrine of baptisms and of laying on of hands, and of resurrection of the dead, and of eternal judgment.\n\n\n\n\n\nAnd this will we do, if God permit. (Hebrews 6:1-3)."
+                                        },
+                                        "links": [
+                                                {
+                                                        "rel": "http://opds-spec.org/acquisition/open-access",
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/Harvestime/Harvestime_FoundationsOfFaith_EN.epub",
+                                                        "type": "application/epub+zip"
+                                                }
+                                        ],
+                                        "images": [
+                                                {
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/Harvestime/Harvestime_FoundationsOfFaith_EN.png",
+                                                        "type": "image/jpeg",
+                                                        "height": 222,
+                                                        "width": 110
+                                                },
+                                                {
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/Harvestime/Harvestime_FoundationsOfFaith_EN.png",
+                                                        "type": "image/jpeg",
+                                                        "height": 400,
+                                                        "width": 260
+                                                }
+                                        ]
                                 }
                         ]
                 },
-
-
-
-
-
                 {
                         "metadata": {
                                 "title": "E. G. Gibson",
