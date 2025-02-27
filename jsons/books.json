@@ -727,6 +727,452 @@
                 },
                 {
                         "metadata": {
+                                "title": "John Edmiston",
+                                "numberOfItems": 20
+                        },
+                        "publications": [
+                                {
+                                        "metadata": {
+                                                "@type": "http://schema.org/Book",
+                                                "title": "Cybermissions Articles",
+                                                "author": {
+                                                        "name": "John Edmiston",
+                                                        "sortAs": "Edmiston, John"
+                                                },
+                                                "identifier": "",
+                                                "language": "en",
+                                                "modified": "",
+                                                "published": "",
+                                                "publisher": "",
+                                                "belongsTo": {
+                                                        "series": {
+                                                                "name": "",
+                                                                "position": 1
+                                                        }
+                                                },
+                                                "description": "Frontier mission is always an adventure and a calling, in the words of William Carey, to “use means” for the completion of the Great Commission. One of these means is the use of the Internet. And one of the most exhilarating frontiers of mission today is cyber-missions; the frontline use of IT to evangelize and disciple the nations. In this article we will keep the focus on cross-cultural mission web sites and strategic approaches to ministry online such as web-evangelism, email discipleship, web-based TEE and icafes as a church-planting strategy. This paper will review the potential, the actual uses and the successful implementation of Internet-based missionary outreach and put the case for missionary societies to have an Internet evangelism department headed by a Field Director – Cyberspace. I have intentionally excluded the traditional uses of computing in missions or the use of the Internet for mono-cultural ministry as this has already been extensively reviewed elsewhere (for instance in the work of Leonard Sweet)."
+                                        },
+                                        "links": [
+                                                {
+                                                        "rel": "http://opds-spec.org/acquisition/open-access",
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnEdmiston/JohnEdmiston_Cybermissions_articles_EN.epub",
+                                                        "type": "application/epub+zip"
+                                                }
+                                        ],
+                                        "images": [
+                                                {
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnEdmiston/JohnEdmiston_Cybermissions_articles_EN.png",
+                                                        "type": "image/jpeg",
+                                                        "height": 222,
+                                                        "width": 110
+                                                },
+                                                {
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnEdmiston/JohnEdmiston_Cybermissions_articles_EN.png",
+                                                        "type": "image/jpeg",
+                                                        "height": 400,
+                                                        "width": 260
+                                                }
+                                        ]
+                                },
+                                {
+                                        "metadata": {
+                                                "@type": "http://schema.org/Book",
+                                                "title": "Ephesians",
+                                                "author": {
+                                                        "name": "John Edmiston",
+                                                        "sortAs": "Edmiston, John"
+                                                },
+                                                "identifier": "",
+                                                "language": "en",
+                                                "modified": "",
+                                                "published": "",
+                                                "publisher": "",
+                                                "belongsTo": {
+                                                        "series": {
+                                                                "name": "",
+                                                                "position": 1
+                                                        }
+                                                },
+                                                "description": "I therefore, the prisoner in the Lord, beseech you that you walk worthy of the calling with\n\n\nwhich you are called, (2) with all lowliness and meekness, with long-suffering, forbearing one another in love, (3) endeavoring to keep the unity of the Spirit in the bond of peace. (Ephesians 4:1-3)\n\n\n  \n\n\nOur series on Ephesians moves from Life In Christ (chapters 1-3) to Living In Christ (chapters 4-6) - and from an emphasis on “being and being in” to an emphasis on “doing and working out”. Having established our place and privilege in Christ - we now find out what a God-indwelt life looks like in the Church, (chapter 4) in the family and society (chapter 5) and in the Heavenly realms (chapter 6).\n\n\n  \n\n\nThe connecting verse is Ephesians 4:1 with its injunction to “walk worthy of the calling with which you are called,” We have a high calling – how then do we live it out? If God calls us saints and places us in the heavenly realms with Christ – how should we then live?"
+                                        },
+                                        "links": [
+                                                {
+                                                        "rel": "http://opds-spec.org/acquisition/open-access",
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnEdmiston/JohnEdmiston_Ephesians_EN.epub",
+                                                        "type": "application/epub+zip"
+                                                }
+                                        ],
+                                        "images": [
+                                                {
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnEdmiston/JohnEdmiston_Ephesians_EN.png",
+                                                        "type": "image/jpeg",
+                                                        "height": 222,
+                                                        "width": 110
+                                                },
+                                                {
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnEdmiston/JohnEdmiston_Ephesians_EN.png",
+                                                        "type": "image/jpeg",
+                                                        "height": 400,
+                                                        "width": 260
+                                                }
+                                        ]
+                                },
+                                {
+                                        "metadata": {
+                                                "@type": "http://schema.org/Book",
+                                                "title": "Glimpses Of Glory",
+                                                "author": {
+                                                        "name": "John Edmiston",
+                                                        "sortAs": "Edmiston, John"
+                                                },
+                                                "identifier": "",
+                                                "language": "en",
+                                                "modified": "",
+                                                "published": "",
+                                                "publisher": "",
+                                                "belongsTo": {
+                                                        "series": {
+                                                                "name": "",
+                                                                "position": 1
+                                                        }
+                                                },
+                                                "description": "A little over three months after the historic Gallipoli landing of the Anzacs in 1915, an occasion of which our nation commemorates the 100th anniversary this year, Edward Gordon Gibson was born in Sydney. Australia has defined itself as a nation largely from the events of this bloody campaign and much of our national identity has been forged through the flames of that conflict which threw up into the Turkish air the virtuous embers of courage, daring and mateship. This has been fanned into an eternal flame back on the home soil of Terra Australis over the ensuring 10 decades. This historic event has been deeply engraved upon the psyche of our nation which as a result has moulded and marked us out as one of the great free nations of the world."
+                                        },
+                                        "links": [
+                                                {
+                                                        "rel": "http://opds-spec.org/acquisition/open-access",
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnEdmiston/JohnEdmiston_GlimpsesOfGlory_EN.epub",
+                                                        "type": "application/epub+zip"
+                                                }
+                                        ],
+                                        "images": [
+                                                {
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnEdmiston/JohnEdmiston_GlimpsesOfGlory_EN.png",
+                                                        "type": "image/jpeg",
+                                                        "height": 222,
+                                                        "width": 110
+                                                },
+                                                {
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnEdmiston/JohnEdmiston_GlimpsesOfGlory_EN.png",
+                                                        "type": "image/jpeg",
+                                                        "height": 400,
+                                                        "width": 260
+                                                }
+                                        ]
+                                },
+                                {
+                                        "metadata": {
+                                                "@type": "http://schema.org/Book",
+                                                "title": "Healing",
+                                                "author": {
+                                                        "name": "John Edmiston",
+                                                        "sortAs": "Edmiston, John"
+                                                },
+                                                "identifier": "",
+                                                "language": "en",
+                                                "modified": "",
+                                                "published": "",
+                                                "publisher": "",
+                                                "belongsTo": {
+                                                        "series": {
+                                                                "name": "",
+                                                                "position": 1
+                                                        }
+                                                },
+                                                "description": "Then Jesus came from Galilee to John at the Jordan to be baptized by him. {14} And John tried to prevent Him, saying, \"I need to be baptized by You, and are You coming to me?\" {15} But Jesus answered and said to him, \"Permit it to be so now, for thus it is fitting for us to fulfill all righteousness.\" Then he allowed Him. {16} When He had been baptized, Jesus came up immediately from the water; and behold, the heavens were opened to Him, and He saw the Spirit of God descending like a dove and alighting upon Him. {17} And suddenly a voice came from heaven, saying, \"This is My beloved Son, in whom I am well pleased.\" (Matthew 3:13-17 NKJV)"
+                                        },
+                                        "links": [
+                                                {
+                                                        "rel": "http://opds-spec.org/acquisition/open-access",
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnEdmiston/JohnEdmiston_Healing_EN.epub",
+                                                        "type": "application/epub+zip"
+                                                }
+                                        ],
+                                        "images": [
+                                                {
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnEdmiston/JohnEdmiston_Healing_EN.png",
+                                                        "type": "image/jpeg",
+                                                        "height": 222,
+                                                        "width": 110
+                                                },
+                                                {
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnEdmiston/JohnEdmiston_Healing_EN.png",
+                                                        "type": "image/jpeg",
+                                                        "height": 400,
+                                                        "width": 260
+                                                }
+                                        ]
+                                },
+                                {
+                                        "metadata": {
+                                                "@type": "http://schema.org/Book",
+                                                "title": "How To Become A Christian",
+                                                "author": {
+                                                        "name": "John Edmiston",
+                                                        "sortAs": "Edmiston, John"
+                                                },
+                                                "identifier": "",
+                                                "language": "en",
+                                                "modified": "",
+                                                "published": "",
+                                                "publisher": "",
+                                                "belongsTo": {
+                                                        "series": {
+                                                                "name": "",
+                                                                "position": 1
+                                                        }
+                                                },
+                                                "description": "Matthew 7:7 NKJV)\"Ask, and it will be given to you; seek, and you will find; knock, and it will be opened to you.\" \n\n\nThis is the basic secret of becoming a Christian - you have to want to follow Jesus. I can't make you follow Jesus, no-one can. Its between you and God. In your seeking there are a few facts that make the journey a whole lot easier and quicker. \n\n\nWe call this set of facts \"the good news of Jesus Christ\" or \"the gospel\" for short. This article is about the gospel and attempts to give you a few facts to help you believe."
+                                        },
+                                        "links": [
+                                                {
+                                                        "rel": "http://opds-spec.org/acquisition/open-access",
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnEdmiston/JohnEdmiston_HowToBecomeAChristian_EN.epub",
+                                                        "type": "application/epub+zip"
+                                                }
+                                        ],
+                                        "images": [
+                                                {
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnEdmiston/JohnEdmiston_HowToBecomeAChristian_EN.png",
+                                                        "type": "image/jpeg",
+                                                        "height": 222,
+                                                        "width": 110
+                                                },
+                                                {
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnEdmiston/JohnEdmiston_HowToBecomeAChristian_EN.png",
+                                                        "type": "image/jpeg",
+                                                        "height": 400,
+                                                        "width": 260
+                                                }
+                                        ]
+                                },
+                                {
+                                        "metadata": {
+                                                "@type": "http://schema.org/Book",
+                                                "title": "How to know the Will of God",
+                                                "author": {
+                                                        "name": "John Edmiston",
+                                                        "sortAs": "Edmiston, John"
+                                                },
+                                                "identifier": "",
+                                                "language": "en",
+                                                "modified": "",
+                                                "published": "",
+                                                "publisher": "",
+                                                "belongsTo": {
+                                                        "series": {
+                                                                "name": "",
+                                                                "position": 1
+                                                        }
+                                                },
+                                                "description": "John 7:16-18 MKJV Jesus answered them and said, My doctrine is not Mine, but His who sent Me. (17) If anyone desires to do His will, he shall know of the doctrine, whether it is of God, or I speak from Myself. (18) He who speaks of himself seeks his own glory, but he who seeks the glory of Him who sent Him is true, and no unrighteousness is in Him. \n\n\nEphesians 5:15-17 MKJV See then that you walk circumspectly, not as fools, but as wise, (16) redeeming the time, because the days are evil. (17) Therefore do not be unwise, but understand what the will of the Lord is. \n\n\nColossians 1:9-12 MKJV For this cause we also, since the day we heard, do not cease to pray for you, and to desire that you might be filled with the knowledge of His will in all wisdom and spiritual understanding, (10) that you might walk worthy of the Lord to all pleasing, being fruitful in every work and increasing in the knowledge of God, (11) being empowered with all power, according to the might of His glory, to all patience and long-suffering with joyfulness, (12) giving thanks to the Father, who has made us meet to be partakers of the inheritance of the saints in light."
+                                        },
+                                        "links": [
+                                                {
+                                                        "rel": "http://opds-spec.org/acquisition/open-access",
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnEdmiston/JohnEdmiston_WillOfGod_EN.epub",
+                                                        "type": "application/epub+zip"
+                                                }
+                                        ],
+                                        "images": [
+                                                {
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnEdmiston/JohnEdmiston_WillOfGod_EN.png",
+                                                        "type": "image/jpeg",
+                                                        "height": 222,
+                                                        "width": 110
+                                                },
+                                                {
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnEdmiston/JohnEdmiston_WillOfGod_EN.png",
+                                                        "type": "image/jpeg",
+                                                        "height": 400,
+                                                        "width": 260
+                                                }
+                                        ]
+                                }
+                        ]
+                },
+                {
+                        "metadata": {
+                                "title": "Harvestime",
+                                "numberOfItems": 20
+                        },
+                        "publications": [
+                                {
+                                        "metadata": {
+                                                "@type": "http://schema.org/Book",
+                                                "title": "Creative Bible Study",
+                                                "author": {
+                                                        "name": "",
+                                                        "sortAs": "Harvestime, Harvestime"
+                                                },
+                                                "identifier": "",
+                                                "language": "en",
+                                                "modified": "",
+                                                "published": "",
+                                                "publisher": "",
+                                                "belongsTo": {
+                                                        "series": {
+                                                                "name": "",
+                                                                "position": 1
+                                                        }
+                                                },
+                                                "description": "The New Testament Prophet John the Baptist was known as a \"voice crying in the wilderness\" as he proclaimed the Word of God. His message was fresh, powerful, and relevant to the spiritual needs of his time. \n\n\n\n\n\nMany people today have become echoes of spiritual truths they hear from those around them. They are not a voice through which God can reveal His message, but are only an echo of what they hear from others. They are like the prophets of whom God said, \"steal my words every one from his neighbor\" (Jeremiah 23:30).\n\n\n\n\n\nIn order to speak God's words you must first know what God has said. The purpose of this course is to equip you to understand God's Word. You will need only this manual, a Bible, and the guidance of the Holy Spirit to learn these \"Creative Bible Study Methods.\"\n\n\n\n\n\nA method is an organized way to accomplish something. It is an orderly plan. Bible study methods are an organized plan to study God's written Word. The word \"creative\" means \"having the ability to produce that which is new.\" This course teaches you how to study God's Word for yourself. You will not have to rely on the research of others because you will be able to create your own Bible studies based on your study of God's written Word.\n\n\n\n\n\nBy learning proper Bible study methods you will become a voice through which God can speak His truths to a spiritually hungry world. You will no longer only be an echo of what you hear from others. \n\n\n\n\n\n\"Creative Bible Study Methods\" introduces the Bible as the written Word of the one true God. It explains divisions of the Bible, versions, translations, and paraphrases. First, the course guides you to discover what the Bible teaches about itself, then creative methods are explained and you are given the opportunity to use each method discussed. \n\n\n\n\n\nThe course also explains how to outline, make study notes, mark your Bible for easy reference, and reduce lengthy passages to simple charts. The course guides you to proper interpretation and application of God's Word. It directs attention to the greatest Teacher of all, the Holy Spirit. If you follow the guidelines presented, you will experience a new, creative spiritual life flowing within you. \n\n\n\n\n\n\n\n\nNo method of Bible study can replace the teaching ministry of the Holy Spirit. He is the spiritual force that endues a method with creative power. He whispers into the human spirit the truths of God's Word which create a new spiritual life flow."
+                                        },
+                                        "links": [
+                                                {
+                                                        "rel": "http://opds-spec.org/acquisition/open-access",
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/Harvestime/Harvestime_CreativeBibleStudy_EN.epub",
+                                                        "type": "application/epub+zip"
+                                                }
+                                        ],
+                                        "images": [
+                                                {
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/Harvestime/Harvestime_CreativeBibleStudy_EN.png",
+                                                        "type": "image/jpeg",
+                                                        "height": 222,
+                                                        "width": 110
+                                                },
+                                                {
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/Harvestime/Harvestime_CreativeBibleStudy_EN.png",
+                                                        "type": "image/jpeg",
+                                                        "height": 400,
+                                                        "width": 260
+                                                }
+                                        ]
+                                },
+                                {
+                                        "metadata": {
+                                                "@type": "http://schema.org/Book",
+                                                "title": "Divine Provision",
+                                                "author": {
+                                                        "name": "",
+                                                        "sortAs": "Harvestime, Harvestime"
+                                                },
+                                                "identifier": "",
+                                                "language": "en",
+                                                "modified": "",
+                                                "published": "",
+                                                "publisher": "",
+                                                "belongsTo": {
+                                                        "series": {
+                                                                "name": "",
+                                                                "position": 1
+                                                        }
+                                                },
+                                                "description": "We are living in a time of tremendous financial instability. Rising debt, increasing unemployment, homelessness, and poverty are major concerns throughout the world. Businesses are failing. Nations that were formerly great economic giants are in financial upheaval. Rich businessmen and stockbrokers are watching wealth slip from their grasp. \n\n\n\n\n\nThere is much fearful speculation about what lies ahead. How high will inflation rise? How tough will these economically hard times be and how long will they last? People are questioning, \"Will I be able to hold on to my job? Will I be able to make my house payment?\"\n\n\nAs a result, churches and Christian ministries that are supported by donations are also struggling to maintain their outreaches.\n\n\n\n\n\nThis book, \"Divine Provision,\" will prepare you personally and your ministry corporately to face what is happening now and what will occur in the future in the financial realm. Your position in the face of the current and impending crises will not be one of weakness, but it will be a stance of strength, faith, and power, \"For God hath not given us the spirit of fear; but of power, and of love, and of a sound mind\" (2 Timothy 1:7).\n\n\n\n\n\nIt is important that you understand biblical financial strategies because God wants to use you--your talents, your resources, and your ministry--to reap an end-time harvest of souls around the world. The only way you can do this is to be free from financial problems by entering into a new dimension of divine provision."
+                                        },
+                                        "links": [
+                                                {
+                                                        "rel": "http://opds-spec.org/acquisition/open-access",
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/Harvestime/Harvestime_DivineProvision_EN.epub",
+                                                        "type": "application/epub+zip"
+                                                }
+                                        ],
+                                        "images": [
+                                                {
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/Harvestime/Harvestime_DivineProvision_EN.png",
+                                                        "type": "image/jpeg",
+                                                        "height": 222,
+                                                        "width": 110
+                                                },
+                                                {
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/Harvestime/Harvestime_DivineProvision_EN.png",
+                                                        "type": "image/jpeg",
+                                                        "height": 400,
+                                                        "width": 260
+                                                }
+                                        ]
+                                },
+                                {
+                                        "metadata": {
+                                                "@type": "http://schema.org/Book",
+                                                "title": "Environmental Analysis",
+                                                "author": {
+                                                        "name": "",
+                                                        "sortAs": "Harvestime, Harvestime"
+                                                },
+                                                "identifier": "",
+                                                "language": "en",
+                                                "modified": "",
+                                                "published": "",
+                                                "publisher": "",
+                                                "belongsTo": {
+                                                        "series": {
+                                                                "name": "",
+                                                                "position": 1
+                                                        }
+                                                },
+                                                "description": "This course introduces principles of environmental analysis necessary for organizing and mobilizing spiritual resources for evangelizing. \n\n\n\n\n\nThis study stresses the importance of environmental analysis in planning strategies to reach the world with the Gospel. \"Environmental analysis\" is defined and reviewed in the Old and New Testament records. Instructions are given for doing a personal environmental analysis and analyzing people groups, geographic areas, nations, regions of the world, and Christian organizations. \n\n\n\n\n\nThis course is second in a series of three in the \"Organizing Module\" of training offered by Harvestime International Network. \"Biblical Management Principles\" precedes this course, and \"Management By Objectives\" follows it. \n\n\n\n\n\nIt is recommended that these three courses be studied in their suggested order for proper understanding of the leadership, planning, and organization necessary for effective ministry."
+                                        },
+                                        "links": [
+                                                {
+                                                        "rel": "http://opds-spec.org/acquisition/open-access",
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/Harvestime/Harvestime_EnvironmentalAnalysis_EN.epub",
+                                                        "type": "application/epub+zip"
+                                                }
+                                        ],
+                                        "images": [
+                                                {
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/Harvestime/Harvestime_EnvironmentalAnalysis_EN.png",
+                                                        "type": "image/jpeg",
+                                                        "height": 222,
+                                                        "width": 110
+                                                },
+                                                {
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/Harvestime/Harvestime_EnvironmentalAnalysis_EN.png",
+                                                        "type": "image/jpeg",
+                                                        "height": 400,
+                                                        "width": 260
+                                                }
+                                        ]
+                                },
+                                {
+                                        "metadata": {
+                                                "@type": "http://schema.org/Book",
+                                                "title": "Foundations Of Faith",
+                                                "author": {
+                                                        "name": "",
+                                                        "sortAs": "Harvestime, Harvestime"
+                                                },
+                                                "identifier": "",
+                                                "language": "en",
+                                                "modified": "",
+                                                "published": "",
+                                                "publisher": "",
+                                                "belongsTo": {
+                                                        "series": {
+                                                                "name": "",
+                                                                "position": 1
+                                                        }
+                                                },
+                                                "description": "The basic doctrines of the Christian faith are the subject of this course. Doctrines are a collection of teachings on a certain subject. The basic doctrines of the Christian faith are the teachings of Jesus Christ recorded in the Bible.\n\n\n\n\n\nThese doctrines are listed in the Bible in the book of Hebrews: \n\n\n\n\n\nTherefore leaving the principles of the doctrine of Christ, let us go on unto perfection; not laying again the foundation of repentance from dead works, and of faith toward God,\n\n\n\n\n\nOf the doctrine of baptisms and of laying on of hands, and of resurrection of the dead, and of eternal judgment.\n\n\n\n\n\nAnd this will we do, if God permit. (Hebrews 6:1-3)."
+                                        },
+                                        "links": [
+                                                {
+                                                        "rel": "http://opds-spec.org/acquisition/open-access",
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/Harvestime/Harvestime_FoundationsOfFaith_EN.epub",
+                                                        "type": "application/epub+zip"
+                                                }
+                                        ],
+                                        "images": [
+                                                {
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/Harvestime/Harvestime_FoundationsOfFaith_EN.png",
+                                                        "type": "image/jpeg",
+                                                        "height": 222,
+                                                        "width": 110
+                                                },
+                                                {
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/Harvestime/Harvestime_FoundationsOfFaith_EN.png",
+                                                        "type": "image/jpeg",
+                                                        "height": 400,
+                                                        "width": 260
+                                                }
+                                        ]
+                                }
+                        ]
+                },
+                {
+                        "metadata": {
                                 "title": "E. G. Gibson",
                                 "numberOfItems": 20
                         },
@@ -811,6 +1257,49 @@
                                                 },
                                                 {
                                                         "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/EGGibson/EGGibson_Prayer_EN.png",
+                                                        "type": "image/jpeg",
+                                                        "height": 400,
+                                                        "width": 260
+                                                }
+                                        ]
+                                },
+                                {
+                                        "metadata": {
+                                                "@type": "http://schema.org/Book",
+                                                "title": "Life in the Spirit",
+                                                "author": {
+                                                        "name": "E. G., Gibson",
+                                                        "sortAs": "Gibson, E. G."
+                                                },
+                                                "identifier": "",
+                                                "language": "en",
+                                                "modified": "",
+                                                "published": "",
+                                                "publisher": "",
+                                                "belongsTo": {
+                                                        "series": {
+                                                                "name": "",
+                                                                "position": 1
+                                                        }
+                                                },
+                                                "description": "For those who knew Ted Gibson and sat under his ministry, the following Bible studies, first published in The Australian Baptist in 1984, will be redolent of his character and style as a preacher and teacher.\n\nHe himself would be the first to acknowledge the influence of his Principal, the Rev George Morling, who lived and taught the meaning of “life in the Spirit”. From his earliest days as a young theological graduate of the Baptist Theological College of NSW (now Morling College), Ted Gibson felt the call to preach. Although he had degrees in Anthropology and Science as well as Theology, his great love was focused in the Scriptures. In the following brief popular studies, he quotes or refers to at least 30 of the 66 books of the Bible, including nine from the Old Testament.\n\nThe topic of the series is explicit in the title: Life in the Spirit, but in every study the focus is upon Jesus Christ. This is entirely appropriate since Christ Himself said in John 16:13ff: “When he, the Spirit of truth comes, he will guide you into all truth. . . . He will glorify me.” These studies illustrate the truth that a rich full-orbed doctrine of the Holy Spirit will inevitably glorify Christ."
+                                        },
+                                        "links": [
+                                                {
+                                                        "rel": "http://opds-spec.org/acquisition/open-access",
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/EGGibson/EGGibson_LifeInTheSpirit_EN.epub",
+                                                        "type": "application/epub+zip"
+                                                }
+                                        ],
+                                        "images": [
+                                                {
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/EGGibson/EGGibson_LifeInTheSpirit_EN.png",
+                                                        "type": "image/jpeg",
+                                                        "height": 222,
+                                                        "width": 110
+                                                },
+                                                {
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/EGGibson/EGGibson_LifeInTheSpirit_EN.png",
                                                         "type": "image/jpeg",
                                                         "height": 400,
                                                         "width": 260
