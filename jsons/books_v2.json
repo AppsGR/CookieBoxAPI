@@ -1409,6 +1409,159 @@
                     ]
                 }
             ]
+        },
+        {
+            "metadata": {
+                "title": "Ted Gibson",
+                "numberOfItems": 20
+            },
+            "publications": [
+                {
+                    "metadata": {
+                        "@type": "http://schema.org/Book",
+                        "title": "Glimpses Of \n\nGlory",
+                        "author": {
+                            "name": "Ted Gibson",
+                            "sortAs": "Gibson, Ted"
+                        },
+                        "identifier": "",
+                        "language": "en",
+                        "modified": "",
+                        "published": "",
+                        "publisher": "",
+                        "belongsTo": {
+                            "series": {
+                                "name": "",
+                                "position": 1
+                            }
+                        },
+                        "description": "A little over three months after the historic Gallipoli landing of the Anzacs in 1915, an occasion of which our nation commemorates the 100th anniversary this year, Edward Gordon Gibson was born in Sydney. Australia has defined itself as a nation largely from the events of this bloody campaign and much of our national identity has been forged through the flames of that conflict which threw up into the Turkish air the virtuous embers of courage, daring and mateship. This has been fanned into an eternal flame back on the home soil of Terra Australis over the ensuring 10 decades. This historic event has been deeply engraved upon the psyche of our nation which as a result has moulded and marked us out as one of the great free nations of the world."
+                    },
+                    "links": [
+                        {
+                            "rel": "http://opds-spec.org/acquisition/open-access",
+                            "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/TedGibson/TedGibson_GlimpsesOfGlory_EN.epub",
+                            "type": "application/epub+zip"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/TedGibson/TedGibson_GlimpsesOfGlory_EN.png",
+                            "type": "image/jpeg",
+                            "height": 222,
+                            "width": 110
+                        },
+                        {
+                            "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/TedGibson/TedGibson_GlimpsesOfGlory_EN.png",
+                            "type": "image/jpeg",
+                            "height": 400,
+                            "width": 260
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "metadata": {
+                "title": "Stephen Picklesimer",
+                "numberOfItems": 20
+            },
+            "publications": [
+                {
+                    "metadata": {
+                        "@type": "http://schema.org/Book",
+                        "title": "Revelation\nExplained at last!",
+                        "author": {
+                            "name": "Stephen Picklesimer",
+                            "sortAs": "Picklesimer, Stephen"
+                        },
+                        "identifier": "",
+                        "language": "en",
+                        "modified": "",
+                        "published": "",
+                        "publisher": "",
+                        "belongsTo": {
+                            "series": {
+                                "name": "",
+                                "position": 1
+                            }
+                        },
+                        "description": "Unrest grows daily around the world. Terrorism mounts. Bad news increases, while good news is increasingly scarce. Conditions worsen daily!\nMan has tapped the power of the atom. Science and technology have seemingly run amok, producing more horrific new inventions. Now, more and more countries possess weapons of mass destruction. This danger is compounded because mistrust and strife between nations has never been greater.\nAlso, human decadence and immorality, famine, disease, racism and competition among ethnic rivals, and crime and violence are exploding. Where are these downward trends leading? Will human life survive?"
+                    },
+                    "links": [
+                        {
+                            "rel": "http://opds-spec.org/acquisition/open-access",
+                            "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/StephenPicklesimer/StephenPicklesimer_RevelationExplainedAtLast_EN.epub",
+                            "type": "application/epub+zip"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/StephenPicklesimer/StephenPicklesimer_RevelationExplainedAtLast_EN.png",
+                            "type": "image/jpeg",
+                            "height": 222,
+                            "width": 110
+                        },
+                        {
+                            "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/StephenPicklesimer/StephenPicklesimer_RevelationExplainedAtLast_EN.png",
+                            "type": "image/jpeg",
+                            "height": 400,
+                            "width": 260
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "metadata": {
+                "title": "Steve Highlander",
+                "numberOfItems": 20
+            },
+            "publications": [
+                {
+                    "metadata": {
+                        "@type": "http://schema.org/Book",
+                        "title": "The God Code",
+                        "author": {
+                            "name": "Steve Highlander",
+                            "sortAs": "Highlander, Steve"
+                        },
+                        "identifier": "",
+                        "language": "en",
+                        "modified": "",
+                        "published": "",
+                        "publisher": "",
+                        "belongsTo": {
+                            "series": {
+                                "name": "",
+                                "position": 1
+                            }
+                        },
+                        "description": "This course is called The God Code because God chose to cloak His truth and wisdom in the form of types and shadows in the Old Testament and parables in the New Testament. The apostle Paul also talked about several “mysteries” \n\n\nin the Bible that had been hidden — but were now being revealed (Colossians 1:26). God did this for a reason. He reserves the right to reveal His eternal truth and wisdom through spiritual revelation by the Holy Spirit. Those without the Holy Spirit cannot understand the deeper spiritual truths contained in the Bible."
+                    },
+                    "links": [
+                        {
+                            "rel": "http://opds-spec.org/acquisition/open-access",
+                            "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/SteveHighlander/SteveHighlander_TheGodCode_EN.epub",
+                            "type": "application/epub+zip"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/SteveHighlander/SteveHighlander_TheGodCode_EN.png",
+                            "type": "image/jpeg",
+                            "height": 222,
+                            "width": 110
+                        },
+                        {
+                            "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/SteveHighlander/SteveHighlander_TheGodCode_EN.png",
+                            "type": "image/jpeg",
+                            "height": 400,
+                            "width": 260
+                        }
+                    ]
+                }
+            ]
         }
     ],
     "publications": [
