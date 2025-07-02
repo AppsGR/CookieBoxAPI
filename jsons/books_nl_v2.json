@@ -1,0 +1,135 @@
+{
+    "metadata": {
+        "title": "Lijst van Christelijke boeken"
+    },
+    "links": [
+        {
+            "rel": "self",
+            "href": "https://test.opds.io/2.0/home.json",
+            "type": "application/opds+json"
+        }
+    ],
+    "navigation": [
+        {
+            "title": "Nederlandse boeken",
+            "href": "https://raw.githubusercontent.com/AppsGR/CookieBoxAPI/refs/heads/main/jsons/books.json",
+            "type": "application/opds+json"
+        }
+    ],
+    "groups": [
+        {
+            "metadata": {
+                "title": "ds. H. G. Koekkoek",
+                "numberOfItems": 20
+            },
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https://raw.githubusercontent.com/AppsGR/cookiebox/RMs/DevBranch/cb_en.json",
+                    "type": "application/opds+json"
+                }
+            ],
+            "publications": [
+                {
+                    "metadata": {
+                        "@type": "http://schema.org/Book",
+                        "title": "Het Gouden Kalf",
+                        "author": {
+                            "name": "ds. H. G. Koekkoek",
+                            "sortAs": "ds. Koekkoek, H. G. "
+                        },
+                        "identifier": "",
+                        "language": "nl",
+                        "modified": "",
+                        "published": "",
+                        "publisher": "",
+                        "numberOfPages": 111,
+                        "subject": [
+                            {
+                                "name": "Christianity",
+                                "code": "FBFIC028000"
+                            },
+                            {
+                                "name": "Faith",
+                                "code": "FBFIC002000"
+                            }
+                        ],
+                        "description": "Het volk wachtte lang op Mozes. Toen hij maar niet van de berg afkwam, verdrongen ze zich om Aäron en eisten van hem: ‘Maak een god voor ons die voor ons uit kan gaan, want wat er gebeurd is met die Mozes, die ons uit Egypte heeft geleid, weten we niet.’ Aäron antwoordde: ‘Neem dan uw vrouwen, zonen en dochters hun gouden oorringen af en breng die bij mij.’ Hierop deden alle Israëlieten zonder aarzelen hun gouden oorringen af en gaven die aan Aäron. Alles wat ze hem brachten smolt hij om en hij goot er een beeld van in de vorm van een stierkalf. Het volk riep uit: ‘Israël, dit is je god, die je uit Egypte heeft geleid!’ Toen Aäron besefte wat er gebeurde, bouwde hij een altaar voor het beeld en kondigde hij aan dat er de volgende dag een feest voor de HEER zou zijn. De volgende morgen vroeg brachten ze brandoffers en vredeoffers. Ze gingen zitten om te eten en te drinken, en stonden daarna op om uitbundig feest te vieren. De HEER zei tegen Mozes: ‘Ga terug naar beneden, want jouw volk, dat je uit Egypte hebt geleid, misdraagt zich. Nu al zijn ze afgeweken van de weg die ik hun gewezen heb. Ze hebben een stierenbeeld gemaakt, hebben daarvoor neergeknield, er offers aan gebracht en gezegd: “Israël, dit is je god, die je uit Egypte heeft geleid!”’ (Exodus 32:1-8)."
+                    },
+                    "links": [
+                        {
+                            "rel": "http://opds-spec.org/acquisition/open-access",
+                            "href": "https://ourlivingfaith.com/wp-content/uploads/cb/nl/HGKoekkoek/HGKoekkoek_HetGoudenKalf_NL.epub",
+                            "type": "application/epub+zip"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "href": "https://ourlivingfaith.com/wp-content/uploads/cb/nl/HGKoekkoek/HGKoekkoek_HetGoudenKalf_NL.png",
+                            "type": "image/png",
+                            "height": 190,
+                            "width": 116
+                        },
+                        {
+                            "href": "https://ourlivingfaith.com/wp-content/uploads/cb/nl/HGKoekkoek/HGKoekkoek_HetGoudenKalf_NL.png",
+                            "type": "image/png",
+                            "height": 346,
+                            "width": 260
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "metadata": {
+                "title": "Josef Drazil",
+                "numberOfItems": 20
+            },
+            "publications": [
+                {
+                    "metadata": {
+                        "@type": "http://schema.org/Book",
+                        "title": "Verlangen naar vrijheid en leven",
+                        "author": {
+                            "name": "Josef Drazil",
+                            "sortAs": "Drazil, Josef"
+                        },
+                        "identifier": "",
+                        "language": "nl",
+                        "modified": "",
+                        "published": "",
+                        "publisher": "",
+                        "belongsTo": {
+                            "series": {
+                                "name": "",
+                                "position": 1
+                            }
+                        },
+                        "description": "Veel dingen kan men in het leven uitzoeken maar zeker niet alles. Ik had als kind bepaald geen gelukkige start. In 1978 werd ik in het voormalige communistische Tsjechoslowakije geboren. Mijn vader was alcoholist en ik leerde al heel vroeg geweld kennen in het gezin. Eén van mijn eerste herinneringen als driejarig kind was, dat ik op een bank zat en mijzelf een natte zakdoek op mijn bloedende neus drukte.\n\n\nEen porseleinen bord is door \nmijn schuld gebroken. Mijn vader \nliet mij zijn woede merken. \n\n\nToen ik vier jaar oud was, scheidde mijn moeder van mijn vader. Ze ontdekte dat mijn vader haar bedrogen had, terwijl zij beviel van mijn jongere zus. Na de scheiding maakte zij een plan om met de kinderen naar het westen te vluchten. Mijn moeder was tegen het regime en had contact met de burgerrechtenbeweging Charta 77. Eén van haar contacten hielp ons in 1983 via het voormalige Joegoslavië naar Oostenrijk te vluchten. We kwamen in het asielzoekerscentrum in Traiskirchen en woonden daar meer dan twee jaar."
+                    },
+                    "links": [
+                        {
+                            "rel": "http://opds-spec.org/acquisition/open-access",
+                            "href": "https://ourlivingfaith.com/wp-content/uploads/cb/nl/JosefDrazil/JosefDrazil_VerlangenNaarVrijheidEnLeven_NL.epub",
+                            "type": "application/epub+zip"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "href": "https://ourlivingfaith.com/wp-content/uploads/cb/nl/JosefDrazil/JosefDrazil_VerlangenNaarVrijheidEnLeven_NL.png",
+                            "type": "image/jpeg",
+                            "height": 222,
+                            "width": 110
+                        },
+                        {
+                            "href": "https://ourlivingfaith.com/wp-content/uploads/cb/nl/JosefDrazil/JosefDrazil_VerlangenNaarVrijheidEnLeven_NL.png",
+                            "type": "image/jpeg",
+                            "height": 400,
+                            "width": 260
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
