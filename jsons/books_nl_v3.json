@@ -12,7 +12,7 @@
     "navigation": [
         {
             "title": "English books",
-            "href": "https://raw.githubusercontent.com/AppsGR/CookieBoxAPI/refs/heads/main/jsons/books.json",
+            "href": "https://raw.githubusercontent.com/AppsGR/CookieBoxAPI/refs/heads/main/jsons/books_nl_v3.json",
             "type": "application/opds+json"
         }
     ],
