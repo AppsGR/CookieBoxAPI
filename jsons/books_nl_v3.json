@@ -1,6 +1,6 @@
 {
         "metadata": {
-                "title": "Christian Books List"
+D                "title": "Lijst van Christelijke boeken"
         },
         "links": [
                 {
@@ -11,7 +11,7 @@
         ],
         "navigation": [
                 {
-                        "title": "English books",
+                        "title": "Nederlandse boeken",
                         "href": "https://raw.githubusercontent.com/AppsGR/CookieBoxAPI/refs/heads/main/jsons/books_nl_v3.json",
                         "type": "application/opds+json"
                 }
@@ -19,7 +19,7 @@
         "groups": [
                 {
                         "metadata": {
-                                "title": "John Piper",
+                                "title": "Nederlandse boeken",
                                 "numberOfItems": 20
                         },
                         "links": [
@@ -35,11 +35,11 @@
                                                 "@type": "http://schema.org/Book",
                                                 "title": "Alive to wonder",
                                                 "author": {
-                                                        "name": "John Piper",
-                                                        "sortAs": "Piper, John"
+                                                        "name": "H. G. Koekkoek",
+                                                        "sortAs": "Koekkoek, H. G."
                                                 },
                                                 "identifier": "",
-                                                "language": "en",
+                                                "language": "nl",
                                                 "modified": "",
                                                 "published": "",
                                                 "publisher": "",
@@ -54,24 +54,24 @@
                                                                 "code": "FBFIC002000"
                                                         }
                                                 ],
-                                                "description": "C.S. Lewis died fifty years ago this year. More than a generation after his death, Lewis’s works are now more popular and widely read than at any point during his lifetime.1 His thought is so creative and so profound and so extensive that Alister McGrath says, Half a century after his death, the process of receiving and interpreting Lewis has still only begun.\nI put Lewis in the top three writers who have influenced how I read and respond to the world. Yes, the world is a book to be read. And few people could read like Lewis. When Clyde Kilby wrote an anthology of Lewis’s writings he titled it A Mind Awake. He might have called it An Awakening Mind. This is the effect it has. His alertness to reality is contagious."
+                                                "description": "Het volk wachtte lang op Mozes. Toen hij maar niet van de berg afkwam, verdrongen ze zich om Aäron en eisten van hem: ‘Maak een god voor ons die voor ons uit kan gaan, want wat er gebeurd is met die Mozes, die ons uit Egypte heeft geleid, weten we niet.’ Aäron antwoordde: ‘Neem dan uw vrouwen, zonen en dochters hun gouden oorringen af en breng die bij mij.’ Hierop deden alle Israëlieten zonder aarzelen hun gouden oorringen af en gaven die aan Aäron. Alles wat ze hem brachten smolt hij om en hij goot er een beeld van in de vorm van een stierkalf. Het volk riep uit: ‘Israël, dit is je god, die je uit Egypte heeft geleid!’ Toen Aäron besefte wat er gebeurde, bouwde hij een altaar voor het beeld en kondigde hij aan dat er de volgende dag een feest voor de HEER zou zijn. De volgende morgen vroeg brachten ze brandoffers en vredeoffers. Ze gingen zitten om te eten en te drinken, en stonden daarna op om uitbundig feest te vieren. De HEER zei tegen Mozes: ‘Ga terug naar beneden, want jouw volk, dat je uit Egypte hebt geleid, misdraagt zich. Nu al zijn ze afgeweken van de weg die ik hun gewezen heb. Ze hebben een stierenbeeld gemaakt, hebben daarvoor neergeknield, er offers aan gebracht en gezegd: “Israël, dit is je god, die je uit Egypte heeft geleid!”’ (Exodus 32:1-8)"
                                         },
                                         "links": [
                                                 {
                                                         "rel": "http://opds-spec.org/acquisition/open-access",
-                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnPiper/JohnPiper_AliveToWonder_EN.epub",
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/nl/HGKoekkoek/HGKoekkoek_HetGoudenKalf_NL.epub",
                                                         "type": "application/epub+zip"
                                                 }
                                         ],
                                         "images": [
                                                 {
-                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnPiper/JohnPiper_AliveToWonder_EN.png",
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/nl/HGKoekkoek/HGKoekkoek_HetGoudenKalf_NL.png",
                                                         "type": "image/png",
                                                         "height": 190,
                                                         "width": 116
                                                 },
                                                 {
-                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnPiper/JohnPiper_AliveToWonder_EN.png",
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/nl/HGKoekkoek/HGKoekkoek_HetGoudenKalf_NL.png",
                                                         "type": "image/png",
                                                         "height": 346,
                                                         "width": 260
@@ -102,19 +102,19 @@
                                         "links": [
                                                 {
                                                         "rel": "http://opds-spec.org/acquisition/open-access",
-                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnPiper/JohnPiper_AnAllConsumingPassionForJesus_EN.epub",
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cbnl/HGKoekkoek/HGKoekkoek_HetGoudenKalf_NL.epub",
                                                         "type": "application/epub+zip"
                                                 }
                                         ],
                                         "images": [
                                                 {
-                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnPiper/JohnPiper_AnAllConsumingPassionForJesus_EN.png",
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cbnl/HGKoekkoek/HGKoekkoek_HetGoudenKalf_NL.png",
                                                         "type": "image/jpeg",
                                                         "height": 222,
                                                         "width": 110
                                                 },
                                                 {
-                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnPiper/JohnPiper_AnAllConsumingPassionForJesus_EN.png",
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cbnl/HGKoekkoek/HGKoekkoek_HetGoudenKalf_NL.png",
                                                         "type": "image/jpeg",
                                                         "height": 400,
                                                         "width": 260
