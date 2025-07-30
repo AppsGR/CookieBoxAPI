@@ -60,7 +60,7 @@
                                                 {
                                                         "rel": "http://opds-spec.org/acquisition/open-access",
                                                         "href": "https://ourlivingfaith.com/wp-content/uploads/cb/fa/JohnPiper/JohnPiper_50ReasonsWhyChristWasBorn_fa.pdf",
-                                                        "type": "application/epub+zip"
+                                                        "type": "application/pdf+zip"
                                                 }
                                         ],
                                         "images": [
@@ -103,7 +103,7 @@
                                                 {
                                                         "rel": "http://opds-spec.org/acquisition/open-access",
                                                         "href": "https://ourlivingfaith.com/wp-content/uploads/cb/fa/JohnBevere/JohnBevere_GettingToKNowTheHolySpirit_FA.pdf",
-                                                        "type": "application/epub+zip"
+                                                        "type": "application/pdf+zip"
                                                 }
                                         ],
                                         "images": [
@@ -146,7 +146,7 @@
                                                 {
                                                         "rel": "http://opds-spec.org/acquisition/open-access",
                                                         "href": "https://ourlivingfaith.com/wp-content/uploads/cb/fa/RichardWurmbrand/RichardWurmbrand_TorturedForChrist_fa.pdf",
-                                                        "type": "application/epub+zip"
+                                                        "type": "application/pdf+zip"
                                                 }
                                         ],
                                         "images": [
@@ -189,7 +189,7 @@
                                                 {
                                                         "rel": "http://opds-spec.org/acquisition/open-access",
                                                         "href": "https://ourlivingfaith.com/wp-content/uploads/cb/fa/RCSporoul/RCSproul_DoesPrayerChangeGodsMind_fa.pdf",
-                                                        "type": "application/epub+zip"
+                                                        "type": "application/pdf+zip"
                                                 }
                                         ],
                                         "images": [
@@ -232,7 +232,7 @@
                                                 {
                                                         "rel": "http://opds-spec.org/acquisition/open-access",
                                                         "href": "https://ourlivingfaith.com/wp-content//uploads/cb/fa/Others/Others_WhyChristianity-fa.pdf",
-                                                        "type": "application/epub+zip"
+                                                        "type": "application/pdf+zip"
                                                 }
                                         ],
                                         "images": [
@@ -284,7 +284,7 @@
                                                 {
                                                         "rel": "http://opds-spec.org/acquisition/open-access",
                                                         "href": "https://ourlivingfaith.com/wp-content/",
-                                                        "type": "application/epub+zip"
+                                                        "type": "application/pdf+zip"
                                                 }
                                         ],
                                         "images": [
