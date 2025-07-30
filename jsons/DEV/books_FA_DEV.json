@@ -33,6 +33,242 @@
                                 {
                                         "metadata": {
                                                 "@type": "http://schema.org/Book",
+                                                "title": "111پنجاه دلیل چرا عیسی آمد تا مصلوب شود",
+                                                "author": {
+                                                        "name": "111جان پایپر",
+                                                        "sortAs": "111جان, پایپر"
+                                                },
+                                                "identifier": "",
+                                                "language": "fa",
+                                                "modified": "",
+                                                "published": "",
+                                                "publisher": "",
+                                                "numberOfPages": 111,
+                                                "subject": [
+                                                        {
+                                                                "name": "Christianity",
+                                                                "code": "FBFIC028000"
+                                                        },
+                                                        {
+                                                                "name": "Faith",
+                                                                "code": "FBFIC002000"
+                                                        }
+                                                ],
+                                                "description": ""
+                                        },
+                                        "links": [
+                                                {
+                                                        "rel": "http://opds-spec.org/acquisition/open-access",
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/fa/JohnPiper/DHLawrence_FiveSelectedShortStories_FA.epub",
+                                                        "type": "application/pdf+zip"
+                                                }
+                                        ],
+                                        "images": [
+                                                {
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/fa/JohnPiper/DHLawrence_FiveSelectedShortStories_FA.png",
+                                                        "type": "image/png",
+                                                        "height": 190,
+                                                        "width": 116
+                                                },
+                                                {
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/fa/JohnPiper/DHLawrence_FiveSelectedShortStories_FA.png",
+                                                        "type": "image/png",
+                                                        "height": 346,
+                                                        "width": 260
+                                                }
+                                        ]
+                                },
+                                {
+                                        "metadata": {
+                                                "@type": "http://schema.org/Book",
+                                                "title": "آشنايي با روح القدس",
+                                                "author": {
+                                                        "name": "جان بيور",
+                                                        "sortAs": "بيور, جان بيور"
+                                                },
+                                                "identifier": "",
+                                                "language": "fa",
+                                                "modified": "",
+                                                "published": "",
+                                                "publisher": "",
+                                                "belongsTo": {
+                                                        "series": {
+                                                                "name": "",
+                                                                "position": 1
+                                                        }
+                                                },
+                                                "description": "می توانید این کتاب را ، مثل هر کتاب دیگری از ابتدا تا انتها بخوانید ، گر چه ما شما\nرا تشویق می کنیم تا زمان بیشتری را به فعالیت هایی روزانه اختصاص دهید ، و\nبیشتر تعمق کنید تا آن را شخصأ تجربه کنید ."
+                                        },
+                                        "links": [
+                                                {
+                                                        "rel": "http://opds-spec.org/acquisition/open-access",
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/fa/JohnBevere/JohnBevere_GettingToKNowTheHolySpirit_FA.pdf",
+                                                        "type": "application/pdf+zip"
+                                                }
+                                        ],
+                                        "images": [
+                                                {
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/fa/JohnBevere/JohnBevere_GettingToKNowTheHolySpirit_FA.png",
+                                                        "type": "image/jpeg",
+                                                        "height": 222,
+                                                        "width": 110
+                                                },
+                                                {
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/fa/JohnBevere/JohnBevere_GettingToKNowTheHolySpirit_FA.png",
+                                                        "type": "image/jpeg",
+                                                        "height": 400,
+                                                        "width": 260
+                                                }
+                                        ]
+                                },
+                                {
+                                        "metadata": {
+                                                "@type": "http://schema.org/Book",
+                                                "title": "ﺷﮑﻨﺠﻪ ﺷﺪه ﺑﺮای مسیح ",
+                                                "author": {
+                                                        "name": "ﺷﺒﺎن رﯾﭽﺎرد وورﻣﺒﺮاﻧﺪ",
+                                                        "sortAs": "ﺷﺒﺎن رﯾﭽﺎرد وورﻣﺒﺮاﻧﺪ"
+                                                },
+                                                "identifier": "",
+                                                "language": "fa",
+                                                "modified": "",
+                                                "published": "",
+                                                "publisher": "",
+                                                "belongsTo": {
+                                                        "series": {
+                                                                "name": "",
+                                                                "position": 1
+                                                        }
+                                                },
+                                                "description": ""
+                                        },
+                                        "links": [
+                                                {
+                                                        "rel": "http://opds-spec.org/acquisition/open-access",
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/fa/RichardWurmbrand/RichardWurmbrand_TorturedForChrist_fa.pdf",
+                                                        "type": "application/pdf+zip"
+                                                }
+                                        ],
+                                        "images": [
+                                                {
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/fa/RichardWurmbrand/RichardWurmbrand_TorturedForChrist_fa.png",
+                                                        "type": "image/jpeg",
+                                                        "height": 222,
+                                                        "width": 110
+                                                },
+                                                {
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/fa/RichardWurmbrand/RichardWurmbrand_TorturedForChrist_fa.png",
+                                                        "type": "image/jpeg",
+                                                        "height": 400,
+                                                        "width": 260
+                                                }
+                                        ]
+                                },
+                                {
+                                        "metadata": {
+                                                "@type": "http://schema.org/Book",
+                                                "title": "آیا دعا فکر خدا را عوض میکند؟",
+                                                "author": {
+                                                        "name": "ار. سی. اسپرول",
+                                                        "sortAs": "ار. سی. اسپرول"
+                                                },
+                                                "identifier": "",
+                                                "language": "fa",
+                                                "modified": "",
+                                                "published": "",
+                                                "publisher": "",
+                                                "belongsTo": {
+                                                        "series": {
+                                                                "name": "",
+                                                                "position": 1
+                                                        }
+                                                },
+                                                "description": ""
+                                        },
+                                        "links": [
+                                                {
+                                                        "rel": "http://opds-spec.org/acquisition/open-access",
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/fa/RCSporoul/RCSproul_DoesPrayerChangeGodsMind_fa.pdf",
+                                                        "type": "application/pdf+zip"
+                                                }
+                                        ],
+                                        "images": [
+                                                {
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/fa/RCSporoul/RCSproul_DoesPrayerChangeGodsMind_fa.png",
+                                                        "type": "image/jpeg",
+                                                        "height": 222,
+                                                        "width": 110
+                                                },
+                                                {
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/fa/RCSporoul/RCSproul_DoesPrayerChangeGodsMind_fapng",
+                                                        "type": "image/jpeg",
+                                                        "height": 400,
+                                                        "width": 260
+                                                }
+                                        ]
+                                },
+                                {
+                                        "metadata": {
+                                                "@type": "http://schema.org/Book",
+                                                "title": "ﭼﺮا ﻣﺴﯿﺤﯿﺖ؟",
+                                                "author": {
+                                                        "name": "",
+                                                        "sortAs": ""
+                                                },
+                                                "identifier": "",
+                                                "language": "fa",
+                                                "modified": "",
+                                                "published": "",
+                                                "publisher": "",
+                                                "belongsTo": {
+                                                        "series": {
+                                                                "name": "",
+                                                                "position": 1
+                                                        }
+                                                },
+                                                "description": ""
+                                        },
+                                        "links": [
+                                                {
+                                                        "rel": "http://opds-spec.org/acquisition/open-access",
+                                                        "href": "https://ourlivingfaith.com/wp-content//uploads/cb/fa/Others/Others_WhyChristianity-fa.pdf",
+                                                        "type": "application/pdf+zip"
+                                                }
+                                        ],
+                                        "images": [
+                                                {
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/fa/Others/Others_WhyChristianity-fa.png",
+                                                        "type": "image/jpeg",
+                                                        "height": 222,
+                                                        "width": 110
+                                                },
+                                                {
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/fa/Others/Others_WhyChristianity-fa.png",
+                                                        "type": "image/jpeg",
+                                                        "height": 400,
+                                                        "width": 260
+                                                }
+                                        ]
+                                }
+
+                        ]
+                },
+                {
+                        "metadata": {
+                                "title": "John Piper",
+                                "numberOfItems": 20
+                        },
+                        "links": [
+                                {
+                                        "rel": "self",
+                                        "href": "https://raw.githubusercontent.com/AppsGR/cookiebox/RMs/DevBranch/cb_en.json",
+                                        "type": "application/opds+json"
+                                }
+                        ],
+                        "publications": [
+                                {
+                                        "metadata": {
+                                                "@type": "http://schema.org/Book",
                                                 "title": "پنجاه دلیل چرا عیسی آمد تا مصلوب شود",
                                                 "author": {
                                                         "name": "جان پایپر",
