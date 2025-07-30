@@ -59,19 +59,19 @@
                                         "links": [
                                                 {
                                                         "rel": "http://opds-spec.org/acquisition/open-access",
-                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/fa/JohnPiper/DHLawrence_FiveSelectedShortStories_FA.epub",
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/fa/DHLawrence/DHLawrence_FiveSelectedShortStories_FA.epub",
                                                         "type": "application/pdf+zip"
                                                 }
                                         ],
                                         "images": [
                                                 {
-                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/fa/JohnPiper/DHLawrence_FiveSelectedShortStories_FA.png",
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/fa/DHLawrence/DHLawrence_FiveSelectedShortStories_FA.png",
                                                         "type": "image/png",
                                                         "height": 190,
                                                         "width": 116
                                                 },
                                                 {
-                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/fa/JohnPiper/DHLawrence_FiveSelectedShortStories_FA.png",
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/fa/DHLawrence/DHLawrence_FiveSelectedShortStories_FA.png",
                                                         "type": "image/png",
                                                         "height": 346,
                                                         "width": 260
