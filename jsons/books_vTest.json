@@ -18,55 +18,7 @@
     ],
     "groups": [
         {
-            "metadata": {
-                "title": "Stephen Picklesimer",
-                "numberOfItems": 20
-            },
-            "publications": [
-                {
-                    "metadata": {
-                        "@type": "http://schema.org/Book",
-                        "title": "Revelation\nExplained at last!",
-                        "author": {
-                            "name": "Stephen Picklesimer",
-                            "sortAs": "Picklesimer, Stephen"
-                        },
-                        "identifier": "",
-                        "language": "en",
-                        "modified": "",
-                        "published": "",
-                        "publisher": "",
-                        "belongsTo": {
-                            "series": {
-                                "name": "",
-                                "position": 1
-                            }
-                        },
-                        "description": "Unrest grows daily around the world. Terrorism mounts. Bad news increases, while good news is increasingly scarce. Conditions worsen daily!\nMan has tapped the power of the atom. Science and technology have seemingly run amok, producing more horrific new inventions. Now, more and more countries possess weapons of mass destruction. This danger is compounded because mistrust and strife between nations has never been greater.\nAlso, human decadence and immorality, famine, disease, racism and competition among ethnic rivals, and crime and violence are exploding. Where are these downward trends leading? Will human life survive?"
-                    },
-                    "links": [
-                        {
-                            "rel": "http://opds-spec.org/acquisition/open-access",
-                            "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/StephenPicklesimer/StephenPicklesimer_RevelationExplainedAtLast_EN.epub",
-                            "type": "application/epub+zip"
-                        }
-                    ],
-                    "images": [
-                        {
-                            "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/StephenPicklesimer/StephenPicklesimer_RevelationExplainedAtLast_EN.png",
-                            "type": "image/jpeg",
-                            "height": 222,
-                            "width": 110
-                        },
-                        {
-                            "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/StephenPicklesimer/StephenPicklesimer_RevelationExplainedAtLast_EN.png",
-                            "type": "image/jpeg",
-                            "height": 400,
-                            "width": 260
-                        }
-                    ]
-                }
-            ]
+            "$ref": "j.json"
         },
         {
             "metadata": {
