@@ -18,7 +18,9 @@
     ],
     "groups": [
         {
-            "$ref": "https://raw.githubusercontent.com/AppsGR/CookieBoxAPI/refs/heads/main/jsons/j.json"
+          "title": "aaa",
+          "href": "https://raw.githubusercontent.com/AppsGR/CookieBoxAPI/refs/heads/main/jsons/j.json",
+          "type": "application/opds+json"
         },
         {
             "metadata": {
