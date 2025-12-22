@@ -9,7 +9,13 @@
             "type": "application/opds+json"
         }
     ],
-
+    "navigation": [
+        {
+            "title": "English books",
+            "href": "https://raw.githubusercontent.com/AppsGR/CookieBoxAPI/refs/heads/main/jsons/books.json",
+            "type": "application/opds+json"
+        }
+    ],
     "groups": [
         {
             "metadata": {
