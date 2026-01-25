@@ -1,99 +1,188 @@
 {
         "metadata": {
-                "title": "Lijst van Christelijke boeken"
+                "title": "OPDS 2.0 Test Catalog"
         },
+
         "links": [
-                {
-                        "rel": "self",
-                        "href": "https://test.opds.io/2.0/home.json",
-                        "type": "application/opds+json"
-                }
+                {"rel": "self", "href": "https://test.opds.io/2.0/home.json", "type": "application/opds+json"}
         ],
+
         "navigation": [
                 {
-                        "title": "Nederlandse boeken",
-                        "href": "https://raw.githubusercontent.com/AppsGR/CookieBoxAPI/refs/heads/main/jsons/books_nl_v3.json",
+                        "href": "https://test.opds.io/2.0/navigation.json",
+                        "title": "Explore (Navigation Feed)",
+                        "type": "application/opds+json"
+                },
+                {
+                        "href": "https://test.opds.io/2.0/publications.json",
+                        "title": "French Books (Publications Feed)",
+                        "type": "application/opds+json"
+                },
+                {
+                        "href": "https://test.opds.io/2.0/home.json",
+                        "title": "Third Link",
+                        "type": "application/opds+json"
+                },
+                {
+                        "href": "https://test.opds.io/2.0/home.json",
+                        "title": "Fourth Link",
+                        "type": "application/opds+json"
+                },
+                {
+                        "href": "https://test.opds.io/2.0/home.json",
+                        "title": "Fifth Link",
+                        "type": "application/opds+json"
+                },
+                {
+                        "href": "https://test.opds.io/2.0/home.json",
+                        "title": "Sixth Link",
+                        "type": "application/opds+json"
+                },
+                {
+                        "href": "https://test.opds.io/2.0/home.json",
+                        "title": "Seventh Link",
+                        "type": "application/opds+json"
+                },
+                {
+                        "href": "https://test.opds.io/2.0/home.json",
+                        "title": "Eight Link",
                         "type": "application/opds+json"
                 }
         ],
+
         "groups": [
                 {
                         "metadata": {
-                                "title": "Nederlandse boeken",
-                                "numberOfItems": 20
+                                "title": "French Classics",
+                                "numberOfItems": 5
                         },
                         "links": [
-                                {
-                                        "rel": "self",
-                                        "href": "https://raw.githubusercontent.com/AppsGR/cookiebox/RMs/DevBranch/cb_en.json",
-                                        "type": "application/opds+json"
-                                }
+                                {"rel": "self", "href": "https://test.opds.io/2.0/publications.json", "type": "application/opds+json"}
                         ],
                         "publications": [
                                 {
                                         "metadata": {
                                                 "@type": "http://schema.org/Book",
-                                                "title": "Alive to wonder",
-                                                "author": {
-                                                        "name": "H. G. Koekkoek",
-                                                        "sortAs": "Koekkoek, H. G."
-                                                },
-                                                "identifier": "",
-                                                "language": "nl",
-                                                "modified": "",
-                                                "published": "",
-                                                "publisher": "",
-                                                "numberOfPages": 111,
+                                                "title": "Voyage au centre de la Terre",
+                                                "author": {"name": "Jules Verne", "sortAs": "Verne, Jules"},
+                                                "identifier": "http://fr.feedbooks.com/book/1474/voyage-au-centre-de-la-terre",
+                                                "language": "fr",
+                                                "modified": "2018-04-23T22:15:00Z",
+                                                "published": "1864-01-01",
+                                                "publisher": "Feedbooks",
+                                                "numberOfPages": 251,
                                                 "subject": [
                                                         {
-                                                                "name": "Christianity",
+                                                                "name": "Science Fiction",
                                                                 "code": "FBFIC028000"
                                                         },
                                                         {
-                                                                "name": "Faith",
+                                                                "name": "Action & Aventure",
                                                                 "code": "FBFIC002000"
                                                         }
                                                 ],
-                                                "description": "Het volk wachtte lang op Mozes. Toen hij maar niet van de berg afkwam, verdrongen ze zich om Aäron en eisten van hem: ‘Maak een god voor ons die voor ons uit kan gaan, want wat er gebeurd is met die Mozes, die ons uit Egypte heeft geleid, weten we niet.’ Aäron antwoordde: ‘Neem dan uw vrouwen, zonen en dochters hun gouden oorringen af en breng die bij mij.’ Hierop deden alle Israëlieten zonder aarzelen hun gouden oorringen af en gaven die aan Aäron. Alles wat ze hem brachten smolt hij om en hij goot er een beeld van in de vorm van een stierkalf. Het volk riep uit: ‘Israël, dit is je god, die je uit Egypte heeft geleid!’ Toen Aäron besefte wat er gebeurde, bouwde hij een altaar voor het beeld en kondigde hij aan dat er de volgende dag een feest voor de HEER zou zijn. De volgende morgen vroeg brachten ze brandoffers en vredeoffers. Ze gingen zitten om te eten en te drinken, en stonden daarna op om uitbundig feest te vieren. De HEER zei tegen Mozes: ‘Ga terug naar beneden, want jouw volk, dat je uit Egypte hebt geleid, misdraagt zich. Nu al zijn ze afgeweken van de weg die ik hun gewezen heb. Ze hebben een stierenbeeld gemaakt, hebben daarvoor neergeknield, er offers aan gebracht en gezegd: “Israël, dit is je god, die je uit Egypte heeft geleid!”’ (Exodus 32:1-8)"
+                                                "description": "Le professeur Lidenbrock trouve un document dans lequel il apprend l'existence d'un volcan éteint dont la cheminée pourrait le conduire jusqu'au centre de la Terre. Accompagné de son neveu Axel et du guide Hans, il se rend au volcan Sneffels, en Islande, et s'engouffre dans les entrailles de la Terre. Ils ne tarderont pas à faire d'étonnantes découvertes..."
                                         },
                                         "links": [
                                                 {
                                                         "rel": "http://opds-spec.org/acquisition/open-access",
-                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/nl/HGKoekkoek/HGKoekkoek_HetGoudenKalf_NL.epub",
+                                                        "href": "https://test.opds.io/assets/centredelaterre/file.epub",
                                                         "type": "application/epub+zip"
                                                 }
                                         ],
                                         "images": [
-                                                {
-                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/nl/HGKoekkoek/HGKoekkoek_HetGoudenKalf_NL.png",
-                                                        "type": "image/png",
-                                                        "height": 190,
-                                                        "width": 116
-                                                },
-                                                {
-                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/nl/HGKoekkoek/HGKoekkoek_HetGoudenKalf_NL.png",
-                                                        "type": "image/png",
-                                                        "height": 346,
-                                                        "width": 260
-                                                }
+                                                {"href": "https://test.opds.io/assets/centredelaterre/small.jpg", "type": "image/jpeg", "height": 110, "width": 146},
+                                                {"href": "https://test.opds.io/assets/centredelaterre/normal.jpg", "type": "image/jpeg", "height": 346, "width": 260}
                                         ]
                                 },
                                 {
                                         "metadata": {
                                                 "@type": "http://schema.org/Book",
-                                                "title": "An all-Consuming Passion for Jesus",
-                                                "author": {
-                                                        "name": "John Piper",
-                                                        "sortAs": "Piper, John"
-                                                },
-                                                "identifier": "",
-                                                "language": "en",
-                                                "modified": "",
-                                                "published": "",
-                                                "publisher": "",
+                                                "title": "Le Rouge et le Noir",
+                                                "subtitle": "Chronique du XIXe siècle",
+                                                "sortAs": "Rouge et le Noir, Le",
+                                                "author": "Stendhal",
+                                                "identifier": "http://fr.feedbooks.com/book/220/le-rouge-et-le-noir",
+                                                "language": "fr",
+                                                "modified": "2018-04-23T22:25:00Z",
+                                                "published": "1834-01-01",
+                                                "publisher": "Feedbooks",
+                                                "description": "Au rouge des armes, Julien Sorel préfèrera le noir des ordres. Au cours de son ascension sociale, deux femmes se singularisent, comme pour figurer les deux penchants de son caractère : Madame de Rênal - le rêve, l'aspiration à un bonheur pur et simple - et Mathilde de La Mole - l'énergie, l'action brillante et fébrile. A ces composantes stendhaliennes (conception de la vie qui dépasse la stratégie narrative pour s'étendre à l'existence de l'auteur) correspondent deux facettes stylistiques : la sobriété et la restriction du champ de vision."
+                                        },
+                                        "links": [
+                                                {
+                                                        "rel": "http://opds-spec.org/acquisition/open-access",
+                                                        "href": "https://test.opds.io/assets/rougenoir/file.epub",
+                                                        "type": "application/epub+zip"
+                                                }
+                                        ],
+                                        "images": [
+                                                {"href": "https://test.opds.io/assets/rougenoir/small.jpg", "type": "image/jpeg", "rel": "http://opds-spec.org/image/thumbnail"},
+                                                {"href": "https://test.opds.io/assets/rougenoir/normal.jpg", "type": "image/jpeg", "rel": "http://opds-spec.org/image"}
+                                        ]
+                                },
+                                {
+                                        "metadata": {
+                                                "@type": "http://schema.org/Book",
+                                                "title": "Le Mystère de la chambre jaune",
+                                                "sortAs": "Mystère de la chambre jaune, Le",
+                                                "author": {"name": "Gaston Leroux", "sortAs": "Leroux, Gaston"},
+                                                "identifier": "http://fr.feedbooks.com/book/588/le-myst%C3%A8re-de-la-chambre-jaune",
+                                                "language": "fr",
+                                                "modified": "2018-04-23T22:32:00Z",
+                                                "published": "1907-01-01",
+                                                "publisher": "Feedbooks",
+                                                "description": "Imaginez-vous devant un coffre fort fermé, où vous entendriez quelqu'un crier à l'aide , vous ouvrez et, vous ne trouvez que la victime. Par où l'assassin est-il parti ? C'est le Mystère de la chambre jaune... La plus célèbre des aventures de Rouletabille..."
+                                        },
+                                        "links": [
+                                                {
+                                                        "rel": "http://opds-spec.org/acquisition/open-access",
+                                                        "href": "https://test.opds.io/assets/chambrejaune/file.epub",
+                                                        "type": "application/epub+zip"
+                                                }
+                                        ],
+                                        "images": [
+                                                {"href": "https://test.opds.io/assets/chambrejaune/small.jpg", "type": "image/jpeg", "height": 169, "width": 110},
+                                                {"href": "https://test.opds.io/assets/chambrejaune/normal.jpg", "type": "image/jpeg", "height": 400, "width": 260}
+                                        ]
+                                },
+                                {
+                                        "metadata": {
+                                                "@type": "http://schema.org/Book",
+                                                "title": "Madame Bovary",
+                                                "author": {"name": "Gustave Flaubert", "sortAs": "Flaubert, Gustave"},
+                                                "identifier": "http://fr.feedbooks.com/book/386/madame-bovary",
+                                                "language": "fr",
+                                                "modified": "2018-04-23T22:53:00Z",
+                                                "published": "1857-01-01",
+                                                "publisher": "Feedbooks",
+                                                "description": "Charles Bovary, après avoir suivi ses études dans un lycée de province, s'établit comme officier de santé et se marie à une riche veuve. À la mort de celle-ci, Charles épouse une jeune femme, Emma Rouault, élevée dans un couvent, vivant à la ferme avec son père (un riche fermier, patient du jeune médecin). Emma se laisse séduire par Charles et se marie avec lui. Fascinée par ses lectures romantiques, elle rêve d’une nouvelle vie, en compagnie de son nouveau mari."
+                                        },
+                                        "links": [
+                                                {
+                                                        "rel": "http://opds-spec.org/acquisition/open-access",
+                                                        "href": "https://test.opds.io/assets/bovary/file.epub",
+                                                        "type": "application/epub+zip"
+                                                }
+                                        ],
+                                        "images": [
+                                                {"href": "https://test.opds.io/assets/bovary/small.jpg", "type": "image/jpeg", "height": 169, "width": 110},
+                                                {"href": "https://test.opds.io/assets/bovary/normal.jpg", "type": "image/jpeg", "height": 400, "width": 260}
+                                        ]
+                                },
+                                {
+                                        "metadata": {
+                                                "@type": "http://schema.org/Book",
+                                                "title": "Du côté de chez Swann",
+                                                "author": {"name": "Marcel Proust", "sortAs": "Proust, Marcel"},
+                                                "identifier": "http://fr.feedbooks.com/book/4/du-c%C3%B4t%C3%A9-de-chez-swann",
+                                                "language": "fr",
+                                                "modified": "2018-04-23T22:56:00Z",
+                                                "published": "1913-01-01",
+                                                "publisher": "Feedbooks",
                                                 "belongsTo": {
                                                         "series": {
-                                                                "name": "",
+                                                                "name": "À la recherche du temps perdu",
                                                                 "position": 1
                                                         }
                                                 },
@@ -121,6 +210,10 @@
                                                 }
                                         ]
                                 }
+                        ],
+                        "images": [
+                                {"href": "https://test.opds.io/assets/chambrejaune/small.jpg", "type": "image/jpeg", "height": 169, "width": 110},
+                                {"href": "https://test.opds.io/assets/chambrejaune/normal.jpg", "type": "image/jpeg", "height": 400, "width": 260}
                         ]
                 }
         ]
