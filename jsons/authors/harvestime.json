@@ -1,0 +1,37 @@
+{
+  "author": "Harvestime",
+  "books": [
+    {
+      "title": "Creative Bible Study",
+      "description": "In order to speak God's words you must first know what God has said. This course equips you to understand God's Word.",
+      "cover": "https://ourlivingfaith.com/wp-content/uploads/cb/en/Harvestime/Harvestime_CreativeBibleStudy_EN.png",
+      "epub": "https://ourlivingfaith.com/wp-content/uploads/cb/en/Harvestime/Harvestime_CreativeBibleStudy_EN.epub",
+      "language": "English",
+      "category": "Bible Study"
+    },
+    {
+      "title": "Divine Provision",
+      "description": "We are living in a time of tremendous financial instability. This book will prepare you personally and your ministry corporately.",
+      "cover": "https://ourlivingfaith.com/wp-content/uploads/cb/en/Harvestime/Harvestime_DivineProvision_EN.png",
+      "epub": "https://ourlivingfaith.com/wp-content/uploads/cb/en/Harvestime/Harvestime_DivineProvision_EN.epub",
+      "language": "English",
+      "category": "Christian Living"
+    },
+    {
+      "title": "Environmental Analysis",
+      "description": "This course introduces principles of environmental analysis necessary for organizing and mobilizing spiritual resources for evangelizing.",
+      "cover": "https://ourlivingfaith.com/wp-content/uploads/cb/en/Harvestime/Harvestime_EnvironmentalAnalysis_EN.png",
+      "epub": "https://ourlivingfaith.com/wp-content/uploads/cb/en/Harvestime/Harvestime_EnvironmentalAnalysis_EN.epub",
+      "language": "English",
+      "category": "Missions"
+    },
+    {
+      "title": "Foundations of Faith",
+      "description": "The basic doctrines of the Christian faith are the subject of this course.",
+      "cover": "https://ourlivingfaith.com/wp-content/uploads/cb/en/Harvestime/Harvestime_FoundationsOfFaith_EN.png",
+      "epub": "https://ourlivingfaith.com/wp-content/uploads/cb/en/Harvestime/Harvestime_FoundationsOfFaith_EN.epub",
+      "language": "English",
+      "category": "Theology"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "author": "John Edmiston",
+  "books": [
+    {
+      "title": "Cybermissions Articles",
+      "description": "Frontier mission is always an adventure and a calling. One of its means is the use of the Internet.",
+      "cover": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnEdmiston/JohnEdmiston_Cybermissions_articles_EN.png",
+      "epub": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnEdmiston/JohnEdmiston_Cybermissions_articles_EN.epub",
+      "language": "English",
+      "category": "Missions"
+    },
+    {
+      "title": "Ephesians",
+      "description": "Our series on Ephesians moves from Life In Christ (chapters 1–3) to Living In Christ (chapters 4–6).",
+      "cover": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnEdmiston/JohnEdmiston_Ephesians_EN.png",
+      "epub": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnEdmiston/JohnEdmiston_Ephesians_EN.epub",
+      "language": "English",
+      "category": "Bible Study"
+    },
+    {
+      "title": "Glimpses of Glory",
+      "description": "Edward Gordon Gibson was born in Sydney. Australia has defined itself as a nation largely from the events of this bloody campaign.",
+      "cover": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnEdmiston/JohnEdmiston_GlimpsesOfGlory_EN.png",
+      "epub": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnEdmiston/JohnEdmiston_GlimpsesOfGlory_EN.epub",
+      "language": "English",
+      "category": "Theology"
+    },
+    {
+      "title": "Healing",
+      "description": "Then Jesus came from Galilee to John at the Jordan to be baptized by him.",
+      "cover": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnEdmiston/JohnEdmiston_Healing_EN.png",
+      "epub": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnEdmiston/JohnEdmiston_Healing_EN.epub",
+      "language": "English",
+      "category": "Christian Living"
+    },
+    {
+      "title": "How to Become a Christian",
+      "description": "\"Ask, and it will be given to you; seek, and you will find; knock, and it will be opened to you.\"",
+      "cover": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnEdmiston/JohnEdmiston_HowToBecomeAChristian_EN.png",
+      "epub": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnEdmiston/JohnEdmiston_HowToBecomeAChristian_EN.epub",
+      "language": "English",
+      "category": "Evangelism"
+    },
+    {
+      "title": "How to Know the Will of God",
+      "description": "\"If anyone desires to do His will, he shall know of the doctrine, whether it is of God, or I speak from Myself.\"",
+      "cover": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnEdmiston/JohnEdmiston_WillOfGod_EN.png",
+      "epub": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnEdmiston/JohnEdmiston_WillOfGod_EN.epub",
+      "language": "English",
+      "category": "Christian Living"
+    }
+  ]
+}

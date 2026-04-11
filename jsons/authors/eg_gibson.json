@@ -1,0 +1,29 @@
+{
+  "author": "E. G. Gibson",
+  "books": [
+    {
+      "title": "Fear of God",
+      "description": "The fear of the Lord as it related to the promised Messiah was predicted by Isaiah 800 years before his birth.",
+      "cover": "https://ourlivingfaith.com/wp-content/uploads/cb/en/EGGibson/EGGibson_FearOfGod_EN.png",
+      "epub": "https://ourlivingfaith.com/wp-content/uploads/cb/en/EGGibson/EGGibson_FearOfGod_EN.epub",
+      "language": "English",
+      "category": "Theology"
+    },
+    {
+      "title": "Prayer",
+      "description": "Prayer may be defined as the mutual articulated communication between God and man. It is mutual — a two-way affair.",
+      "cover": "https://ourlivingfaith.com/wp-content/uploads/cb/en/EGGibson/EGGibson_Prayer_EN.png",
+      "epub": "https://ourlivingfaith.com/wp-content/uploads/cb/en/EGGibson/EGGibson_Prayer_EN.epub",
+      "language": "English",
+      "category": "Christian Living"
+    },
+    {
+      "title": "Life in the Spirit",
+      "description": "For those who knew Ted Gibson and sat under his ministry, these Bible studies will be redolent of his character and style.",
+      "cover": "https://ourlivingfaith.com/wp-content/uploads/cb/en/EGGibson/EGGibson_LifeInTheSpirit_EN.png",
+      "epub": "https://ourlivingfaith.com/wp-content/uploads/cb/en/EGGibson/EGGibson_LifeInTheSpirit_EN.epub",
+      "language": "English",
+      "category": "Theology"
+    }
+  ]
+}
