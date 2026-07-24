@@ -1,0 +1,21 @@
+{
+  "author": "H G Koekkoek",
+  "books": [
+    {
+      "title": "Het Gouden Kalf",
+      "description": "Het volk wachtte lang op Mozes. Toen hij maar niet van de berg afkwam, verdrongen ze zich om Aäron en eisten van hem: ‘Maak een god voor ons die voor ons uit kan gaan, want wat er gebeurd is met die Mozes, die ons uit Egypte heeft geleid, weten we niet.’ Aäron antwoordde: ‘Neem dan uw vrouwen, zonen en dochters hun gouden oorringen af en breng die bij mij.’",
+      "cover": "https://ourlivingfaith.com/wp-content/uploads/cb/nl/HGKoekkoek/HGKoekkoek_HetGoudenKalf_NL.epub",
+      "epub": "https://ourlivingfaith.com/wp-content/uploads/cb/nl/HGKoekkoek/HGKoekkoek_HetGoudenKalf_NL.epub",
+      "language": "Dutch",
+      "category": "Christian Living"
+    },
+    {
+      "title": "Je bent jong en...",
+      "description": "Dit gratis eBook bevat een verzameling preken die ds. H.G. Koekkoek gedurende een aantal jaren voor de jongeren in zijn gemeente heeft gehouden, aangevuld met verschenen artikelen.",
+      "cover": "https://ourlivingfaith.com/wp-content/uploads/cb/HGKoekkoek/HGKoekkoek_JeBentJong_NL.epub",
+      "epub": "https://ourlivingfaith.com/wp-content/uploads/cb/nl/HGKoekkoek/HGKoekkoek_HetGoudenKalf_NL.epub",
+      "language": "Dutch",
+      "category": "Christian Living"
+    }
+  ]
+}
