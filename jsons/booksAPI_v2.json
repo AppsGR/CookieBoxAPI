@@ -1,5 +1,6 @@
 {
   "authorFiles": [
+
     "authors/john_piper.json",
     "authors/john_edmiston.json",
     "authors/harvestime.json",
@@ -11,6 +12,14 @@
     "authors/steve_highlander.json",
     "authors/josef_drazil.json",
     "authors/d_h_lawrence.json",
-    "authors/HGKoekkoek.json"
+
+
+
+    "authors_nl/HGKoekkoek.json",
+    "authors_nl/josef_drazil.json",
+    "authors_nl/d_h_lawrence.json",
+
+
+    "authors_fa/d_h_lawrence.json"
   ]
 }
