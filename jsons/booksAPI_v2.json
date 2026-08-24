@@ -1,6 +1,5 @@
 {
   "authorFiles": [
-
     "authors/john_piper.json",
     "authors/john_edmiston.json",
     "authors/harvestime.json",
@@ -17,6 +16,11 @@
     "authors_nl/frederic_bettex.json",
 
 
-    "authors_fa/d_h_lawrence.json"
+    "authors_fa/d_h_lawrence.json",
+
+    "authors_fa/pdf_fa/john_piper_fa_pdf.json",
+    "authors_fa/pdf_fa/john_bevere_fa_pdf.json",
+    "authors_fa/pdf_fa/rc_sporoul_fa_pdf.json",
+    "authors_fa/pdf_fa/richard_wurmbrand_fa_pdf.json"
   ]
 }
